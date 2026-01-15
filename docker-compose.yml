@@ -117,8 +117,8 @@ services:
       - -c
       - |
         sleep 15
-        airflow dags unpause pipeline_dag
-        airflow dags trigger pipeline_dag
+        airflow dags unpause churn_pipeline
+        airflow dags trigger churn_pipeline
 
 volumes:
   postgres-db:

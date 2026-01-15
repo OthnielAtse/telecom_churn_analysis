@@ -1,0 +1,96 @@
+package routines;
+
+import java.security.MessageDigest;
+
+public class ServiceHash {
+
+    /**
+     * Normalise une valeur Yes/No en 1/0
+     *
+     * {talendTypes} String
+     *
+     * {Category} User Defined
+     */
+    public static String yn(String value) {
+        if (value == null) {
+            return "0";
+        }
+        return value.trim().equalsIgnoreCase("Yes") ? "1" : "0";
+    }
+
+    /**
+     * Normalise une valeur texte
+     *
+     * {talendTypes} String
+     *
+     * {Category} User Defined
+     */
+    public static String txt(String value) {
+        if (value == null || value.trim().isEmpty()) {
+            return "NONE";
+        }
+        return value.trim().toUpperCase();
+    }
+
+    /**
+     * Calcule un SHA-256 en hexadécimal
+     *
+     * {talendTypes} String
+     *
+     * {Category} User Defined
+     */
+    public static String sha256(String input) {
+        try {
+            MessageDigest md = MessageDigest.getInstance("SHA-256");
+            byte[] hashBytes = md.digest(input.getBytes("UTF-8"));
+
+            StringBuilder hex = new StringBuilder();
+            for (byte b : hashBytes) {
+                hex.append(String.format("%02x", b));
+            }
+            return hex.toString();
+
+        } catch (Exception e) {
+            throw new RuntimeException("Erreur calcul SHA-256", e);
+        }
+    }
+
+    /**
+     * Construit le hash métier du service
+     *
+     * {talendTypes} String
+     *
+     * {Category} User Defined
+     */
+    public static String buildServiceHash(
+        String phone,
+        String multi,
+        String internet,
+        String internetType,
+        String onlineSecurity,
+        String onlineBackup,
+        String deviceProtection,
+        String premiumTech,
+        String streamingTV,
+        String streamingMovies,
+        String streamingMusic,
+        String unlimitedData
+    ) {
+
+        String businessKey =
+            yn(phone) + "|" +
+            yn(multi) + "|" +
+            yn(internet) + "|" +
+            txt(internetType) + "|" +
+            yn(onlineSecurity) + "|" +
+            yn(onlineBackup) + "|" +
+            yn(deviceProtection) + "|" +
+            yn(premiumTech) + "|" +
+            yn(streamingTV) + "|" +
+            yn(streamingMovies) + "|" +
+            yn(streamingMusic) + "|" +
+            yn(unlimitedData);
+
+        return sha256(businessKey);
+    }
+}

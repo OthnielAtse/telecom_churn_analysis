@@ -1,0 +1,23 @@
+ChurnId,CustomerStatus,ChurnCategory,ChurnReason
+1,Stayed,,
+2,Churned,Competitor,Competitor had better devices
+3,Churned,Dissatisfaction,Product dissatisfaction
+4,Churned,Dissatisfaction,Network reliability
+5,Joined,,
+6,Churned,Dissatisfaction,Limited range of services
+7,Churned,Competitor,Competitor made better offer
+8,Churned,Other,Don't know
+9,Churned,Price,Long distance charges
+10,Churned,Attitude,Attitude of service provider
+11,Churned,Attitude,Attitude of support person
+12,Churned,Competitor,Competitor offered higher download speeds
+13,Churned,Competitor,Competitor offered more data
+14,Churned,Price,Lack of affordable download/upload speed
+15,Churned,Other,Deceased
+16,Churned,Other,Moved
+17,Churned,Dissatisfaction,Service dissatisfaction
+18,Churned,Price,Price too high
+19,Churned,Dissatisfaction,Lack of self-service on Website
+20,Churned,Dissatisfaction,Poor expertise of online support
+21,Churned,Price,Extra data charges
+22,Churned,Dissatisfaction,Poor expertise of phone support

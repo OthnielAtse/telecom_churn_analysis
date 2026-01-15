@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_KJEzUN9pEfCTqP-fnevbAQ" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_KJEzUd9pEfCTqP-fnevbAQ" comment="" name="churnFileRepo" prompt="churnFileRepo?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="INPUT/"/>
+  <contextParameter xmi:id="_KJEzUt9pEfCTqP-fnevbAQ" comment="" name="churnFileName" prompt="churnFileName?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="telecom_customer_churn.csv"/>
+  <contextParameter xmi:id="_If97cOCxEfCImKIq0vxRjg" comment="" name="populationFileName" prompt="populationFileName?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="telecom_zipcode_population.csv"/>
+  <contextParameter xmi:id="_yRNxkODBEfCKdtoJ5PuA6A" comment="" name="exporteFileName" prompt="exporteFileName?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="clients_exportes.csv"/>
+</talendfile:ContextType>

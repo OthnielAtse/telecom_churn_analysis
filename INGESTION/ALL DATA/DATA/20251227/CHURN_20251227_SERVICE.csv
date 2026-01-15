@@ -1,0 +1,967 @@
+ServiceID,ServiceHash,PhoneService,MultipleLines,InternetService,InternetType,OnlineSecurity,OnlineBackup,DeviceProtectionPlan,PremiumTechSupport,StreamingTV,StreamingMovies,StreamingMusic,UnlimitedData
+1,3a9a8dcfd1fc8d26a86ff84bd251f7213cd0a52eb1a60b1d1982fe6e3d9ef405,Yes,No,Yes,Cable,No,Yes,No,Yes,Yes,No,No,Yes
+2,cf30b40690768c5c8398523dda3920d678e96144c26496498a18aabc6beb88d6,Yes,Yes,Yes,Cable,No,No,No,No,No,Yes,Yes,No
+3,cc3e295a39ba3c474062e684c69af4d5908e99f5803251ce57287eb1888fef15,Yes,No,Yes,Fiber Optic,No,No,Yes,No,No,No,No,Yes
+4,d431ae19e0310b2b56d95d7f666d3ccfabc8d0c0aa2925707d0ee7b7f7326c6d,Yes,No,Yes,Fiber Optic,No,Yes,Yes,No,Yes,Yes,No,Yes
+5,fb05d00f0f6005738dc186effc6b0e0637f38fa122b89085450953ee632a8004,Yes,No,Yes,Fiber Optic,No,No,No,Yes,Yes,No,No,Yes
+6,a8ddcb4d32a3680083d44eac905e5f8833af55c37f4b9838a6e173b1034ac6b5,Yes,No,Yes,Cable,No,No,No,Yes,Yes,Yes,Yes,Yes
+7,e849428c7e1b45c4f0bf45ca522083d565689715f21a0469696cb856745388f9,Yes,No,Yes,Fiber Optic,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+8,45583830dd87ebc374979470e4762fcbf0c06c100d5cf9ca4dd73e5fa00322ea,Yes,Yes,Yes,Fiber Optic,Yes,No,No,Yes,No,No,No,No
+9,60beda373d9fd9dad98c232c6cfd46c88beeb22448315eb5fb6fd0a2b1241f96,Yes,No,Yes,DSL,Yes,No,No,No,No,No,No,Yes
+10,29432009382af502f2fdb777a3271dfc54d76f21947f0bd3ebfd282e33d349b4,Yes,Yes,Yes,Cable,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+11,b88a08006315366eead5d98c14f92bd3fa487a6a2e9e3f33d4afd9b9a2b83e47,No,,Yes,Cable,Yes,No,No,Yes,Yes,No,No,Yes
+12,b0cd19dc2dbb0ef6df182e3063ab5b3ea77dd70567f53d155bfe175b14e7f8dd,Yes,Yes,Yes,Fiber Optic,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+13,7e553a62df364082a95406ad9ddb443792b33ac66368c964b36d96b8dbd22520,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes
+14,7b43fa52d8746a07789c48de7dde3133ea42a6e919eb7297a789d3b0a3b8b335,Yes,Yes,Yes,Fiber Optic,Yes,Yes,Yes,No,Yes,No,No,Yes
+15,72845b8007519779cdbce23b6286073a9de54ceea85b09dbba1add8f0f75bbc3,No,,Yes,DSL,Yes,Yes,Yes,Yes,No,No,No,Yes
+16,75d7d7a3c1cfbd6c4c23379afa4eaf8d92a3d1eac8401025ff701b2125ca313a,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,No,No,Yes,Yes,Yes
+17,8bf9fa6f65260ffdc692e9b5beaf51d7a9b9fd1dcea63c632341d916b8288acb,No,,Yes,DSL,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes
+18,d7f0aeee4ce09a291b82718cfdabee4b97ae17458bfbaad521e3d269f8a54f96,Yes,Yes,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes
+19,7f7887c7a183c362260d843fd73afee773c900d6b639b3cd2994d051f32e55e1,Yes,No,Yes,DSL,Yes,No,Yes,No,No,Yes,No,Yes
+20,1dc093a150d300754411ce81711732b377cba4fec0add6b0608ae8eace875d39,No,,Yes,Cable,No,No,No,No,No,No,No,Yes
+21,9b629d8f5b35a927529463284ad95a75b0fea18ef4876c2041327700e4ebe566,Yes,Yes,No,,,,,,,,,
+22,a426d797ee315720b666dea37f945488ec56d38652b177181e60b7cca9fc1435,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,No,Yes,No,No,Yes
+23,01d4fcfd508e919ced10faf6cd5dbd373ac370c946bb62c55dbcf2d85f9d9dcf,Yes,Yes,Yes,Fiber Optic,No,No,No,No,Yes,No,No,Yes
+24,f50a8793bb629837a4423322d2b6e421b48c47f3539c837db127d9c764d0afd5,Yes,No,No,,,,,,,,,
+25,f425188e1a622133996c12f0ee736d18ebabb000f194d0f822725e631f94e0d9,No,,Yes,DSL,Yes,No,No,No,No,No,No,Yes
+26,b3677a5530d5a0b69c5fcbad9775761656cb1843514efab167eab339cc05d53f,Yes,No,Yes,Fiber Optic,No,Yes,Yes,Yes,Yes,Yes,Yes,No
+27,1e28f9e73e4bba262defa4b5838672804145c8f6c0b6aa7e0be3c1e0f31d5517,Yes,No,Yes,Fiber Optic,No,No,No,No,Yes,Yes,Yes,Yes
+28,a6e8d4754a69ae433b994b58869534a44a74c0772a182f9260b3e291e2a585d6,No,,Yes,Cable,Yes,No,Yes,Yes,No,No,No,Yes
+29,3df89fce3feb84d71ba3034ba1adeba44281546f8e5e29e18e6b8cc3ca0b3ce8,Yes,Yes,Yes,Fiber Optic,Yes,No,No,No,Yes,No,No,Yes
+30,2252123b93881f03e8cd646c1cd2cb8fc33a04d51648339e3faa787cf5660897,Yes,Yes,Yes,Fiber Optic,Yes,Yes,No,No,Yes,No,No,Yes
+31,913bffea2b5575f81a18dc5e8aa3947cc2e8b11a69ce43f4ae3a08e8e801b530,Yes,No,Yes,DSL,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+32,3d907cecfc5d976cfb8f8926a0ffa55bb37fe246b3e3d01fc9acfe576416c2f2,Yes,No,Yes,Cable,Yes,Yes,Yes,No,No,No,No,Yes
+33,45709021f7852b201f432f12a5b4cb14dfece0e66b892e421471490b248e731b,Yes,Yes,Yes,DSL,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+34,0d28aa424323a672be038b9bd254518a93ffd5eda14a4578a3dd6683b6dde805,Yes,No,Yes,Cable,No,Yes,No,No,No,No,No,Yes
+35,ebe4c105c87fb9a8bd1bc73ae7a4d654139f82e37319f415d24e7914b692eff5,Yes,No,Yes,Fiber Optic,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+36,6c7196768657269f87cc7f9b9970f32791bf20d3ea5b90a35122fbd24e2495ef,Yes,No,Yes,DSL,No,No,No,No,No,No,No,Yes
+37,3fd38037cc1eb47bf0de07f7db9f71fc55207e2282757e8e86b20561c163e9c6,Yes,No,Yes,Fiber Optic,No,No,No,Yes,Yes,Yes,Yes,No
+38,f72547fd970e829d304443e28bd570b00904d5de544d86de1e94942a7125734e,Yes,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,No,No,No
+39,df8b977003dca02d52a4e7745f537809b11b1d77262de501336ee7ee813c6041,Yes,Yes,Yes,Fiber Optic,No,No,No,Yes,Yes,Yes,Yes,Yes
+40,61045a9798b1e98e55c7bbbcea72f0ae4662e67aec021f451e82417b599c55d8,Yes,No,Yes,Fiber Optic,No,No,No,No,Yes,Yes,No,Yes
+41,a4b16956a9bd2dedcf0d8389847d5902e218e9bc17c7caff817cf42545ea65a7,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,No,Yes,Yes,Yes,Yes
+42,b833a134ded93033bf81adf672ffe4cab135b65952dfb1b486f79510c7b92c80,Yes,No,Yes,Fiber Optic,No,Yes,No,No,Yes,Yes,No,No
+43,21a914f6f9e9c6e1965e4376cdaa6f4385316015fbe07d99665e18714bc13c2c,Yes,Yes,Yes,Cable,No,No,No,No,No,No,No,Yes
+44,a64ecf255291888e5126da9a9a6b7fef4ac68f4a1ebd2828efbf02838616a174,Yes,Yes,Yes,DSL,Yes,No,No,No,No,Yes,Yes,Yes
+45,25800a55df61197c8cebc7cb79c04cf544c17f64d3cc11af4961574dfbe687de,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,No,Yes,Yes,No,Yes
+46,0622b14bede2ef4c385103c18462873edb5e70a5ea0bb1efcf4774ba7179ec67,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+47,dfb29a390afb6416a885e1b86098194f2be1ce4594a024cacd29d24b84182c90,Yes,No,Yes,DSL,No,No,Yes,No,No,No,No,Yes
+48,6425b836bb68366bb4d1efb300a5f6b44599beec8a19a7ce8b62c3d7a4164d57,Yes,Yes,Yes,DSL,No,Yes,Yes,No,No,Yes,Yes,Yes
+49,df86d0322074a02440be948a4399a94c0faee3553287e0332ac90cc924d91b91,Yes,Yes,Yes,Fiber Optic,No,No,Yes,No,Yes,Yes,Yes,Yes
+50,f3822e50c7deacfbfe0e4f01158bd044edef29600195192b89e87ddb41fc3e83,Yes,No,Yes,Fiber Optic,No,Yes,No,No,Yes,Yes,Yes,Yes
+51,625fa221ae695595ed5e9eb6a1cfcaf0fc0b73046486619975ed5d2b1f373a9d,Yes,Yes,Yes,Fiber Optic,No,No,Yes,No,Yes,No,No,Yes
+52,c0761d24e8fc6f18488e5dd845acab5094f334ba61a686ff755b7008e93d3969,Yes,Yes,Yes,Cable,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes
+53,62006c45a667e20eb70480d0405c6dbc36d7e145912f845a1dae1d2c52b154af,No,,Yes,Cable,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+54,dbd793aa66a1ab77353d1bf7cbd8a1301b48c2a54dc321411057775b7f535fb2,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,Yes,Yes,Yes,Yes,No
+55,584996510af2b4b7f84855ae1ec141eb00e941ccfcc98e24db705120b470baca,No,,Yes,DSL,Yes,Yes,Yes,No,No,No,No,Yes
+56,d622d03bc9d0d26ae5b2ec6dc603f94db26beae9bd243411b395292e566ff194,Yes,No,Yes,Fiber Optic,Yes,No,No,No,Yes,No,No,Yes
+57,3e8cc140bb5c41c494302c40a0b544049158c9de230f3bb4c448018d97afa17a,No,,Yes,DSL,Yes,No,No,Yes,No,No,No,Yes
+58,c138b910781fff041ec71ef0f883751a52ba5eb7e569cef379d218ee4411fbc9,Yes,Yes,Yes,Fiber Optic,No,No,No,No,No,No,Yes,Yes
+59,b17f0fe023707695cc345369510cf811b34e5d28185074811a2f6d789607a987,Yes,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+60,88b3c166ca6b8d4d84bd218a62ce2b0ac271f1cbe44c93dac697bd441a72d472,No,,Yes,DSL,Yes,No,No,Yes,No,Yes,Yes,Yes
+61,71eb5d19d07b7300e65a794a144f78a1d4e299a8d0ad1105b5feb1f375183ca7,Yes,No,Yes,Fiber Optic,No,No,Yes,No,Yes,Yes,Yes,Yes
+62,bbd36ef28a131d1dfc9fca7524b202f81346b0b7332d9cde4078c18bcf72810f,Yes,Yes,Yes,Fiber Optic,No,Yes,No,No,No,Yes,Yes,No
+63,7e3bd9f4dd200a0411263b9f683fe856ed04555bf5991c567ec959b86af6863c,Yes,No,Yes,Fiber Optic,Yes,Yes,No,Yes,No,No,No,Yes
+64,8881663b2621db4d8d21de856a6328736f6a1ed0aa83a8dbc2716a2f7030b0f2,Yes,No,Yes,DSL,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+65,b26a0cbc49bca2ba321b8984fd51f9e5b4183fb512d17e131cb3e60bd865853b,Yes,Yes,Yes,Fiber Optic,No,Yes,No,No,Yes,No,No,Yes
+66,2b287aee8d5723f75191902a266506db11cbb19497c3988e3ddf941166a5f1b5,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,Yes,Yes,Yes,No,Yes
+67,56678b910456c53feb6b7001fc600adbf1d663917f1066e5ce6b838a0b0336df,Yes,Yes,Yes,Fiber Optic,No,Yes,No,No,No,No,No,Yes
+68,4302ea4e925f2bae052ea47d19025d6cecfaac57d47147eefc435c556ce1de05,Yes,No,Yes,Fiber Optic,Yes,Yes,No,No,Yes,No,No,Yes
+69,5eee25b8e21938619180db7c261ba3f402a3cb31b16f354d919d948c2d32da7c,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,No,No,No,No,Yes
+70,9f74f43de6117e9e6994dd58aafa8773f321ed961e19b6c4c504acbed58e6332,Yes,Yes,Yes,Fiber Optic,No,No,No,No,Yes,Yes,Yes,Yes
+71,48db6d7d5c7f802cd451a93796aceeae5be3085366edc806955467c053934bd7,Yes,No,Yes,DSL,Yes,No,No,Yes,No,No,No,Yes
+72,3993ac861d0c7ce09e1415f8b382c8780e6028c4d0b9196df2573ad46645765d,Yes,Yes,Yes,Fiber Optic,Yes,No,Yes,Yes,Yes,Yes,No,Yes
+73,5d3a599453c1e163247ec52c103dbf590e65ba8b874b39c21b0b360a0c12ebea,Yes,No,Yes,Fiber Optic,Yes,No,No,No,No,No,No,Yes
+74,959ec0043316c9aaab9225d474118666142b961af7f90010cfcb7ffea6105b94,No,,Yes,Cable,Yes,No,No,Yes,No,No,No,Yes
+75,0bbf3deda85c971741a20cbbaa1fc8b9f002833e8098e04d0aaa29e4c6f9cc00,Yes,No,Yes,DSL,Yes,Yes,No,No,Yes,Yes,No,Yes
+76,e26946ef30ce4cb569ce39742309424c35b2d8877dcf230e6f5fac8cd4744bd8,Yes,No,Yes,Fiber Optic,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes
+77,322046894f46befedffaa0e7a3c6b5682bf8d3637352b3414f50d7f8e137fb0d,Yes,Yes,Yes,Fiber Optic,No,No,No,No,No,Yes,Yes,No
+78,c42e1fb180e61881c9352fe17b523fd06d3d8007b10a81246e93e9f3d2db0333,Yes,Yes,Yes,Fiber Optic,No,No,No,No,No,Yes,No,Yes
+79,32df603efb0355351459c9ef0b3c02bf11076328f61b936d69792d2f57af718d,Yes,Yes,Yes,Fiber Optic,Yes,No,Yes,No,No,No,No,No
+80,9b00e544145673eb44a520eb68ca3441bcbdf00bac768469aedfe64e7ea319bb,Yes,Yes,Yes,Fiber Optic,Yes,No,No,No,Yes,Yes,Yes,Yes
+81,1ccd3223373aa4d21284a1b054e65808518830accda50eace45df2031fe7f8db,Yes,No,Yes,Fiber Optic,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes
+82,a78249e4e9bc7c79b155db8f271ff68c2edf569d931d2886fc5816195ee0d9da,No,,Yes,Cable,No,Yes,No,No,Yes,Yes,Yes,Yes
+83,5fb018128b218c93ff346f5f1ad20dcfbe5642d54cc56b0237e04b30fa80f57a,Yes,No,Yes,Fiber Optic,Yes,Yes,Yes,No,No,No,No,No
+84,85696f5f1c8abf212b902c132f1eb273b3c9fc0dd91c250ed7d1ae2bcf4f9d9e,Yes,Yes,Yes,Fiber Optic,No,Yes,No,No,Yes,Yes,Yes,Yes
+85,8133cb0807574784cf8349494fabfb9fc101582e7a832f9ab4ac6694e077e500,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,No,No,No,Yes,Yes
+86,b2edd19ebf14694c83f7ef53805deca2b835633a63868d3b68f38fcc0c72e3f5,Yes,No,Yes,Fiber Optic,No,No,Yes,No,No,Yes,Yes,Yes
+87,e6a2bbf927afefea1b2ab6cee20e0ed4c837dd6383b5dd017a171633e3aec9d4,No,,Yes,DSL,Yes,No,No,No,Yes,Yes,Yes,Yes
+88,dabe95f1090e55adc5d017311a533b1db4cedb36109cb480d0c51fe04888cdab,Yes,Yes,Yes,Cable,No,No,No,No,No,No,Yes,Yes
+89,8220a4cce78356e9c8e2a7c9d9c199a9ded69a3de0943513ea93523efef05033,Yes,No,Yes,Cable,No,No,No,No,No,No,No,Yes
+90,8c28105c1c7b41c1a9f337284f607f09b33c0b48669e3574d2b13808995049ff,Yes,No,Yes,Fiber Optic,No,Yes,No,No,No,Yes,Yes,Yes
+91,20634f8da33f4cec7d79922e98d9a744744d8dc750851a07258328753873aa8a,Yes,Yes,Yes,DSL,No,No,Yes,Yes,No,No,No,Yes
+92,41a94cc815ce8e0e1695f74468abab7c981ff264df4fea767f0815a4c221e8c3,Yes,Yes,Yes,DSL,Yes,Yes,Yes,Yes,No,No,No,Yes
+93,2447b734433266147f4dd0c1f91eeb0eb80e911dc420c29831bcceda0529a8a0,No,,Yes,DSL,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+94,ecb428d6180c46d3ef6d6cdaa54055ecefc162894a0910dad9bf6dfedded05aa,Yes,No,Yes,Fiber Optic,No,No,No,Yes,No,No,No,Yes
+95,65365c526640a9f7e5a5abdbec59bf2a05e25aabd884f6e19e042100e5bcafb8,Yes,Yes,Yes,Fiber Optic,No,No,Yes,No,No,No,No,Yes
+96,d245905db2c4c4f6ddb2f2982c2e929b8e617c2f65e4e72748fb8fe308cb494c,No,,Yes,DSL,Yes,No,Yes,No,No,Yes,Yes,Yes
+97,e06bd4db8047d7300cf8af2605ebc789e01b5e71c1d0fa04f7b2036c84ec8220,Yes,No,Yes,Fiber Optic,No,No,Yes,No,Yes,No,No,Yes
+98,0408eed32d06e1480c4d68301508df8fe1112d095b673b6464b0c53a9d5a4159,Yes,Yes,Yes,Fiber Optic,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes
+99,6fe90fc747bdb0c92237f97469a6f0f05bbfb4a71d2249eb2da543255f74ea85,Yes,Yes,Yes,Fiber Optic,Yes,Yes,No,No,No,No,No,No
+100,117ccd40daccba5bdca242312c4dc9770f30ccd43255af84ba1eabb85e57a9db,Yes,No,Yes,Fiber Optic,Yes,Yes,No,Yes,Yes,No,No,Yes
+101,3245fc47ff75baf1d402b134135fc626807bc0c1654ca3bcdc9fc92f6c87168f,Yes,Yes,Yes,DSL,No,Yes,No,Yes,Yes,Yes,Yes,Yes
+102,4186734c8a0f94dfd27dca563086541f1edffe5e19da1de1594dd17b04d701eb,Yes,Yes,Yes,Cable,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+103,d06d16e9a5125a02dfef9a8d808f1453bd707676f6e2d1dcc57f6ecf55bab8d7,Yes,No,Yes,Fiber Optic,No,No,No,No,No,Yes,Yes,Yes
+104,229e0ed2d18caca7cb98bbe50541bc4f76341815e912f46ca9ce386492073949,Yes,Yes,Yes,DSL,No,Yes,Yes,No,No,No,Yes,Yes
+105,26c4f434abb39ba8aa6fd1337aee83825498ab2116dda2f6e8419f6f025458f4,Yes,No,Yes,Cable,Yes,No,No,No,No,No,No,Yes
+106,1026cf8779bb3806fe4772a846bb98046e7008d641fb11e6212980c134dd5efe,Yes,No,Yes,Fiber Optic,No,Yes,Yes,No,No,Yes,Yes,Yes
+107,35b7017d78f8a249f62bbd60e5b5ee65576e5505890b49723ac63c2c594a0420,Yes,Yes,Yes,Cable,No,No,No,No,Yes,No,Yes,Yes
+108,1eab2bb116aa7d3926c5437af1452df2ee0a2eaab9061c1fbd97cd7cbaea15ce,Yes,No,Yes,Cable,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+109,c8fe90e00c6fd3ad2a0ee15fbcb110dc76fe77334376d8bf66f5807fac37536d,Yes,Yes,Yes,Cable,Yes,No,No,Yes,Yes,No,No,Yes
+110,2e354433e21d87e4b7c483f7f221bdcda2d11a62c47bc3fe6fd2099681c69cf1,Yes,No,Yes,Fiber Optic,Yes,No,Yes,No,Yes,Yes,Yes,Yes
+111,6aada7d2aac543af3b8d76552391c396fa15bfa47bccbf70903be2895e375f91,Yes,Yes,Yes,Fiber Optic,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+112,2f4b01604735a5c52a57d18a8b8778c1bb9cb2cc03584a3775b0fda45eefda60,No,,Yes,Cable,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes
+113,cc31d386df5845f9ea9a23c48bb06d6b1139f522d8f6a81897bb971352b4dec8,Yes,No,Yes,DSL,No,No,No,No,Yes,No,No,Yes
+114,0329393a5aac224802c5b255113ed9b53ed6ba7d69bfda5e9a55c4b11867ae31,No,,Yes,Cable,No,No,No,Yes,Yes,Yes,Yes,No
+115,ba39676fb8880d29e8b58a18bd86d1b9298186173fb3951af855566302b14dbd,No,,Yes,DSL,No,No,No,Yes,No,No,No,Yes
+116,fa38a8ebde12070c78f57df6f6754c4c0f4d6e149c58c0254cbbf4ce7249ecf6,Yes,No,Yes,DSL,Yes,Yes,No,No,No,No,No,Yes
+117,eb756b5b80ef2a424ff74c7066568e9db160be4a7dadd7be8829ba4e0b7a15fe,Yes,No,Yes,DSL,Yes,Yes,Yes,No,No,No,No,Yes
+118,9e85adcc2112f9fde5ebb3af1aec2d36bad5bdc94333413cf9eab5252d79629f,Yes,No,Yes,DSL,No,No,Yes,Yes,Yes,No,No,Yes
+119,0f2a3bfcf789660300726ff03f3f9a3f42d9a76e3883daed6a24a402fe3e069d,Yes,No,Yes,DSL,No,Yes,No,Yes,No,Yes,Yes,No
+120,0dabdd66091f30d54d86b71c908c0dd03618a28f71558bf2e150667bd17e1ab1,No,,Yes,DSL,No,Yes,Yes,Yes,Yes,No,No,Yes
+121,4006304797dddba54b45429f17352de089e24bfe789f71ae3474ee636c679e70,No,,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+122,d60e8fad3fff39d8028a85644a41ca4420cafdc26a264ccbda3fa89500f4be9a,Yes,No,Yes,Fiber Optic,No,Yes,Yes,No,Yes,Yes,Yes,Yes
+123,f5a536e1ddc043002f6ecdcdcd72ce64b6ea1ec6d7d8ac4c37d67b116b6649f2,Yes,Yes,Yes,DSL,No,No,Yes,No,No,Yes,Yes,No
+124,ab2a6c82d23831bae82537abb8ee53aec0ab41d4b3b778a86a73ad545b583bb6,No,,Yes,DSL,Yes,No,No,Yes,No,No,No,No
+125,9a35db81100036abdb05da574aab6d45b882697e0624ce5daf905d07fffb827b,Yes,No,Yes,Fiber Optic,No,No,No,Yes,Yes,Yes,Yes,Yes
+126,776b42778143e28ad3d4cfb4783ca7b60963277414a3436cbdc4c5f4ce180053,Yes,Yes,Yes,Fiber Optic,No,Yes,No,Yes,Yes,Yes,No,Yes
+127,3ead310445d2e2ac440435d2f1c2f6837224a03648d10a59c20c12a4b47d956c,No,,Yes,DSL,No,Yes,Yes,Yes,No,No,No,Yes
+128,16cc83ba17bf08d04f65f5cb7a1d02dc130ca6f87cb4dbb9b00daef66ef7bb13,Yes,No,Yes,Cable,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+129,f6bcb2aa384849a2b9afe937664970863df0b4c127e0fd11f7259f5e04d66c37,Yes,No,Yes,Fiber Optic,No,No,No,No,Yes,Yes,Yes,No
+130,63403ca1b2d3db3f9de13a960b4b3fb61b1066cd71c5012c39ee28977f48931d,Yes,No,Yes,Cable,Yes,Yes,No,No,No,No,No,No
+131,6802dc271bc3a1c3b93401f0202c146aaaadbd8382224e94d3e2534260d60933,Yes,No,Yes,Fiber Optic,No,No,No,No,Yes,No,Yes,No
+132,f7d7626dec6b3853025b6015f291a3154a493047b11217d0b930824205ad20ba,Yes,No,Yes,DSL,No,Yes,No,No,Yes,No,No,Yes
+133,1461f9f0a5dbd4269ab9db8c24fa5609f0b6f6943d14a725fc8f0dda9a49e6ca,Yes,No,Yes,Fiber Optic,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+134,0e42241e91b8e464f3aea7a9d487b9ffc9847d2ce9a540f1ce758beb08886586,Yes,No,Yes,Fiber Optic,Yes,No,No,Yes,Yes,Yes,Yes,Yes
+135,13b5d8f1b1341a050f436306da2cc54f3f244fa59b83d4cd9a3cecfc6f4600db,Yes,Yes,Yes,Cable,No,Yes,No,No,Yes,Yes,Yes,Yes
+136,93ec4f647d6d2547a6bdd0aad3d14e107b5e3b948cc3195617295ea00b9a8bfe,Yes,No,Yes,Fiber Optic,No,No,Yes,No,Yes,Yes,Yes,No
+137,b2b0755031ccd7d198df38cfd4486d4c43791702fcf568ccf71ce55eb0921ebb,Yes,Yes,Yes,Fiber Optic,No,No,Yes,No,Yes,Yes,Yes,No
+138,63a167bdbfc0848c3724f9b5a2fb1cf3a4182b0b9d77cda2749fb05a4dc31a65,Yes,No,Yes,Fiber Optic,No,Yes,No,Yes,Yes,Yes,Yes,Yes
+139,11b53e14a1039dbf876ae01bd442091b4c7c577cf8cad470dec32cb85a514aa3,Yes,Yes,Yes,Cable,Yes,Yes,No,Yes,No,No,No,No
+140,0abf66757cac144056ecbd9ad72812f3dd3afb0fc1a566d084e2d345b107fede,Yes,No,Yes,DSL,Yes,Yes,Yes,Yes,Yes,No,No,No
+141,18c0ad371841152549ff40bd126fdfd58657f430d2361e9eb7d03e7b0d9f10cf,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,No,Yes,Yes,Yes,No
+142,59f4650a72fa31dfdd6bc544a221f9084d92eb1136969d4bcce735ed78a31f62,Yes,Yes,Yes,Fiber Optic,No,No,Yes,Yes,Yes,Yes,Yes,No
+143,effbef2597ceaa69dddc6c9fe58b6cb041a9d036dfd808c53d0fe7c660561b66,Yes,No,Yes,Fiber Optic,No,No,Yes,Yes,Yes,Yes,No,Yes
+144,825391f2ee375f23f793b3812c2520b9c827da8dcd49c4803cfc132bddb04035,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,Yes,Yes,No,No,Yes
+145,8dfe44e7fd07467852799d46998b0a89bf4140a940d8df65379a36e22dbbf862,No,,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+146,74a7d1e24d42b5904066262e04ffb78bea117a568a124536eabc0d5782eda715,Yes,Yes,Yes,Fiber Optic,No,No,No,No,No,Yes,Yes,Yes
+147,af88fcaadcf74868280d49901b4c1c93156ef51d1a24173cdc05bc735da489a8,Yes,No,Yes,Fiber Optic,No,No,Yes,Yes,No,No,No,Yes
+148,2cd47f56728ba610774c81c8cd0c1650382d4c33052cb4583806930489d7b984,Yes,Yes,Yes,Fiber Optic,Yes,Yes,Yes,No,No,No,No,No
+149,84e79284fb147370df9b94396bf799cd3eb98827c6738416ebdafd687d17ef7a,No,,Yes,Cable,Yes,Yes,Yes,No,No,No,No,Yes
+150,8872e2bd36fa481f4e629d335de6c646e6b27d093f36620ca3c9018c7e5b0e1d,Yes,No,Yes,DSL,Yes,No,No,No,No,No,No,No
+151,110830d510ec8c7f0a192366cfbd63465d4492dbcc42ff6c9eabfb1646620469,No,,Yes,DSL,No,No,No,No,Yes,No,No,Yes
+152,9a7d10fcfd78d4cfcd616fc85d8f88c2c4dfc1b79c71bb58b1d64464ddbb4dbc,Yes,No,Yes,Fiber Optic,Yes,No,No,No,Yes,Yes,Yes,Yes
+153,b4ef9686ed7ddb86b24d880c27c986b460f00a80f04f42d03421088b6f427d06,Yes,Yes,Yes,Cable,No,No,No,Yes,Yes,No,Yes,Yes
+154,a834d1b8c8a93faa147899ba42f58dc847b94c4cf3eee91c9cdd3b4edf039fba,Yes,No,Yes,DSL,Yes,Yes,No,Yes,No,No,Yes,Yes
+155,d050b673963215aeafcdf42ed4b0d53f904262fe1ac0bc9524fc5baeb2ca3c54,Yes,No,Yes,Fiber Optic,No,No,No,Yes,No,Yes,Yes,Yes
+156,34468234b8850f12bcda23f43405a25a85ccb4ece2858b3e9452b5e50788c7dd,Yes,No,Yes,DSL,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes
+157,a1bce5655586718b038df0c09a9612c9465061249cd282979b893ecdf333266c,Yes,Yes,Yes,DSL,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes
+158,5d94d56dd09c2d7a32e1c91411b8a2fa027f554f59d8acb4567bcde2313116ae,Yes,No,Yes,DSL,Yes,No,Yes,No,No,Yes,Yes,Yes
+159,ef8925a5bc236ecc5086a182a967d7844b7a2979402ed3c1290d89d5b0d05344,Yes,Yes,Yes,Fiber Optic,Yes,No,Yes,No,Yes,Yes,Yes,Yes
+160,1f6ff358529bfeb36ffce7933d0a00d0adcbf6652704ac497e40be04e2215929,Yes,No,Yes,DSL,No,Yes,No,Yes,No,No,Yes,Yes
+161,4406d87415993c593ea600cf53dadb6cd5abded3af183e4b82a5edb01ec67c9c,Yes,Yes,Yes,Fiber Optic,No,No,No,No,Yes,Yes,No,Yes
+162,18946238c52049bbe4497effbc9a6d5409e08a5bd66c09f277551938ca05487f,Yes,Yes,Yes,Fiber Optic,Yes,No,Yes,No,Yes,Yes,Yes,No
+163,969971019025003297bb91849251d79feb38c20fc2fba77ade2c4f11cf750c4a,Yes,Yes,Yes,Fiber Optic,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes
+164,557df1819b9748eb86f7d985bc0b65ef2c7e18a7b673528df6a31508367ec2f7,Yes,Yes,Yes,DSL,No,No,No,No,Yes,No,No,No
+165,d471dc4fb079f8a9686013c7f2456a773af4265225117db1aed6d884fc59ee78,Yes,No,Yes,DSL,Yes,No,Yes,Yes,No,No,No,Yes
+166,f7580013fac9a9ec419a54f91300dbcef7e17e0f1c80c90022594c5a8956c48c,Yes,No,Yes,Fiber Optic,No,Yes,No,No,Yes,No,No,Yes
+167,7e85a2212721e41b527b44afff3ab4ee5d4a93178995dc643bcfb246680335cf,No,,Yes,DSL,No,No,No,No,No,No,No,Yes
+168,b68222c308b66a639829a12be59f1c003b92e146763eacb20d9c450317db7a1a,Yes,Yes,Yes,Fiber Optic,No,No,Yes,No,Yes,Yes,No,Yes
+169,143723008b6da431255ccdaade4f49f6954f1ee2341828dbf01f86e4d6458617,Yes,Yes,Yes,DSL,Yes,Yes,Yes,No,No,No,No,Yes
+170,e4a81214200cf3a8cf96bcfab7b3649d15a7b091fe4087e7d981e80a9f18e6ec,Yes,No,Yes,DSL,No,No,No,Yes,No,No,No,Yes
+171,2d1c1a1bde3a8acc003172e4712b1e33bc88306324a8342041a0fe608a82c797,Yes,Yes,Yes,DSL,No,No,No,No,No,No,No,Yes
+172,ed6350eaee50a0b136c2b24ea52cf9d47bc8f47cf60fd8650a350c2077e030a2,Yes,No,Yes,Fiber Optic,No,Yes,No,No,No,No,No,No
+173,d4041e2f4bd5f03902ee303a2d3efe00ffca0e9df5c6831d4ff48ded8294c0a3,Yes,No,Yes,Cable,No,Yes,Yes,Yes,No,No,No,Yes
+174,50250e4283dc0402b78fd9725973ccf2a87f96d1b8202a8ac8350ee51a5b4763,Yes,Yes,Yes,DSL,No,Yes,Yes,No,Yes,Yes,Yes,Yes
+175,1f5eb0644978bbad177c90940dc66bec2c2499d88859851cc15886ebc4189eba,Yes,No,Yes,Fiber Optic,No,Yes,Yes,Yes,No,Yes,Yes,Yes
+176,c7ef4166ca0962b7946d8730d9cc0649e310399d056a3a8c962a2ac09f4cf2d5,Yes,Yes,Yes,Fiber Optic,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes
+177,65e2a355d8103dc98add6d7ad762f6a7a79673ef601c151ab41b0afef935c91b,No,,Yes,Cable,Yes,No,Yes,No,No,Yes,Yes,No
+178,ac1feb4ce00271c37b6ee6db78c50432e667a2c476b4abab8a35914e1f066a33,Yes,No,Yes,Fiber Optic,No,Yes,No,Yes,No,No,No,Yes
+179,d7b161aa736df65c7c3f63714cab270b69f891684dd9302b4877cbee4f6554d6,Yes,Yes,Yes,DSL,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes
+180,1e2e969af13203e5bbdbe0c9a5b623d9d7dd037ed4788ad8a7f578d79b8aeeda,No,,Yes,Cable,No,No,Yes,Yes,No,No,No,No
+181,40d1915f210ec7a11580eae960ee89f45f0f60a2326c5b8e02757c3f1c939703,Yes,Yes,Yes,DSL,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes
+182,0d050a489e3bbd28557d45e015c6675b9f7accb69de0e5a94491e9a28df553cf,Yes,No,Yes,Fiber Optic,No,Yes,Yes,Yes,No,No,No,Yes
+183,4b63454dcf254330d887563d158f2870587f530f91e64b88b06710fc9dd08316,Yes,No,Yes,DSL,No,No,No,No,No,Yes,Yes,No
+184,0c99bd992badb1942b00f4fa32ef5e09e7d2e9ff49221993260de819f4999431,Yes,Yes,Yes,DSL,No,No,Yes,No,Yes,Yes,Yes,Yes
+185,394509cca781db58365090b08c427d06ab384522c8dab82e36db628cef7ec447,Yes,No,Yes,Fiber Optic,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+186,3864fac9424e93fdb6267195cc7575294a310b8f0511207776fbc39111f603c8,Yes,No,Yes,DSL,No,No,No,No,Yes,Yes,Yes,Yes
+187,0efbf7f5c271fdadb85de3e3f2b2dcdda24de9574b44251fb22fa3539aa9fac1,Yes,Yes,Yes,Fiber Optic,Yes,No,Yes,Yes,Yes,No,No,Yes
+188,1e202f342217432cec52d5ca1389557f4817019ca1f3287ee62470a63e3e990a,Yes,No,Yes,Cable,No,No,No,Yes,No,No,No,Yes
+189,27f99cdb45f572f4f227fcb540ef891e3744bc1be6ad2e87e796cb1dc40d1f79,Yes,Yes,Yes,Fiber Optic,No,No,Yes,No,No,No,No,No
+190,e3af9891399127944b0921648bc80664bfad97fc0a6ca6502afa33bb7d822fae,Yes,No,Yes,Cable,Yes,No,No,Yes,Yes,Yes,Yes,Yes
+191,c8c318f4ab690425aa3cfb121e4161b1fb466e059bb9f639d81bd0f9e05fac03,Yes,Yes,Yes,Fiber Optic,No,No,Yes,No,No,Yes,No,Yes
+192,e9b77ba4eb8cb3e29fd42e66fe13aae2487bca27889c2d8b82579ec325acbf9c,Yes,Yes,Yes,DSL,Yes,No,Yes,Yes,No,No,No,Yes
+193,639a68c6895596f9658e8d4eeec14d35542d3c7e25fe6cba0032db2bacde0b77,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,No
+194,b657ed8681e3887782532c67e16cde9fc1173f1c2252769420178beb1732bbaf,Yes,Yes,Yes,Fiber Optic,Yes,Yes,Yes,No,No,No,No,Yes
+195,5a40dec0ca2acf4ad973f3bbf314921b96a2d9a716f12e7305c1f2cda4200fb7,Yes,Yes,Yes,DSL,Yes,Yes,No,Yes,No,No,No,Yes
+196,a236c93f9ad50b20cfa9c3c51f22d07e8160b9d31a57cec3f4c147cccde8883b,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,No,No,No,No,No
+197,9849f244fbb7a30a0f0cc4690dd4049b2f428211dab3178b626aa87f574defbb,Yes,Yes,Yes,DSL,No,Yes,Yes,No,Yes,No,No,Yes
+198,327c85397bdfa7451d4894c9e0b40065e269a7e3841b372b9a0d3dfdf3a14dcf,Yes,No,Yes,DSL,Yes,Yes,No,No,Yes,Yes,Yes,Yes
+199,d9a3cc240ed9cebd5e600edf13a1045c13ee803733166b38f2eaa30ce15c683e,Yes,Yes,Yes,Fiber Optic,Yes,No,No,No,No,No,No,Yes
+200,8781446f42d70004029c22a901a6a7837c25fb3c2c34d5d06796f5b836afbe0c,Yes,No,Yes,Cable,Yes,No,No,No,No,Yes,Yes,Yes
+201,120d8a89d4765fb78c3434dd776f0a0b607ef936b7d7bfdf4b7403c171614286,Yes,No,Yes,DSL,No,Yes,No,Yes,Yes,Yes,Yes,Yes
+202,5e9318e912d32f70b161c976d0f6cc2cc13c3799aaa21387823f641c3c2e8656,Yes,No,Yes,DSL,No,Yes,Yes,Yes,Yes,No,No,Yes
+203,4c4c8da29b4ee872743f346aaa7fc89dffaf7af3452ebf044437098f18a3bf4c,Yes,No,Yes,Cable,No,No,Yes,Yes,No,No,No,Yes
+204,49153e7521985e5bcd0708e509cacf309fd5c82b4de83937594c79c7c82559a7,Yes,Yes,Yes,DSL,Yes,Yes,No,Yes,Yes,No,No,Yes
+205,dc52b30b3e5168d8c0fabe7089e6714beb0bee43bdd6506f63287c3ff7eb38db,Yes,Yes,Yes,Fiber Optic,No,No,Yes,Yes,No,Yes,Yes,Yes
+206,db8506e1ec65806c32929c2f0f13b7bae0fe000d0e4d0b603fa0b253bf52dc8f,Yes,Yes,Yes,DSL,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+207,07c49fb4b4ec0a114831305713964d272288095a74e853e6a6b2c2fb17cffc83,Yes,Yes,Yes,Fiber Optic,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+208,d6968005b7ed194d7e00642ba26b820efa80331b1e12c8543a893c2356979d0f,Yes,No,Yes,Fiber Optic,No,Yes,Yes,No,No,No,No,Yes
+209,30b4e71586b29f993b76d8b6d0d5f1e571c6c2ca447d1284c068f5bba9dd6e55,Yes,Yes,Yes,Fiber Optic,Yes,No,Yes,Yes,No,Yes,Yes,Yes
+210,478642601615f6879b69fe4e41f8e452860e099f9bc350576b5a54869f81c970,Yes,Yes,Yes,Fiber Optic,Yes,Yes,Yes,No,No,No,Yes,Yes
+211,c809a3e70d541c78a1fc63136795f1e9eef274ec49d041528057eb15f7f4522f,Yes,No,Yes,Cable,No,Yes,No,No,No,Yes,Yes,Yes
+212,23cf82a93bd40aa4aec9e8bbee9dd89ccefe06f4fbba05aea74da2198a942768,Yes,Yes,Yes,Fiber Optic,Yes,Yes,Yes,No,No,Yes,Yes,Yes
+213,f880b146427959eca0a5afcc42488f9823841386e784630679d8ddcc40fdbe25,Yes,No,Yes,Fiber Optic,No,Yes,No,No,No,No,No,Yes
+214,5be839c42fd51e87be0ea8938d0a0f096da57f93e61d952d84314c6ff7dda9e3,Yes,Yes,Yes,Cable,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+215,7418c8836d0715fe336785dceb30012369764b234416d82bbf6f8b2583633f17,Yes,No,Yes,Cable,Yes,No,No,No,No,No,No,No
+216,e4797a888d11f53d3a40212d1324f8f157b1c7de181af37269bc363cf063a257,No,,Yes,DSL,No,No,No,No,Yes,Yes,Yes,Yes
+217,4b49bfcae075b3cc7b5153cec83b6a917ffb5c50544028197a1d35532d648785,Yes,No,Yes,Cable,No,Yes,Yes,Yes,Yes,No,Yes,Yes
+218,91bdb8f27a3c0f2b9a45263ddfa7447e608e5a52f2ddbd6924971d8b793fcb5e,Yes,No,Yes,Cable,Yes,No,No,No,Yes,Yes,Yes,Yes
+219,50008f81cfec42136e953d90a3292b59e25618866338e3b73bd9a179effde31a,No,,Yes,DSL,Yes,No,Yes,Yes,No,Yes,Yes,Yes
+220,b23836585d0fcfc3570fb26b36739fa39c30036b0cbdceaf834c0616eda83f82,Yes,Yes,Yes,Fiber Optic,No,No,No,No,No,No,No,No
+221,5b50bf2eae0ea29b6399e6fe0c262cc218374e0e58fc1f3ebc754f23abcbad67,Yes,Yes,Yes,Fiber Optic,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes
+222,bb0d6e595dd9f3e0a6fb0066fa4d39a14830996c2a243512673cb1da5921b80d,Yes,No,Yes,Fiber Optic,No,No,No,No,Yes,No,No,Yes
+223,991796371ddfb70ebd6da2e336aeaa0f0a8b014719aae8d57547d7a350b08af8,No,,Yes,Cable,No,No,No,Yes,No,No,No,Yes
+224,ec952009952af4bfc3301321909df9cdb37fae7a5a8f8fb67f5f06271260bd34,Yes,No,Yes,Cable,No,No,No,No,No,No,Yes,Yes
+225,65b7dd0c68085636daa183d9b5832e61f459364dc675554f78ac1f1785141330,Yes,Yes,Yes,Fiber Optic,Yes,No,No,Yes,No,Yes,Yes,No
+226,b8991ae5a717aee6166a8417eb6296a8b98477bbdfd2042f56262ccde43dff6a,No,,Yes,Cable,Yes,No,No,No,Yes,No,No,Yes
+227,503a4d8f486c29e34cb77a1a534404cf23f582dbe4b51ad993d870411af7239a,Yes,No,Yes,Cable,Yes,No,Yes,Yes,Yes,No,No,Yes
+228,4b15d2aa9bf29c58e87b600bf988b849b9b52327cd8a8d202c1ad199a39f99fd,Yes,Yes,Yes,DSL,No,Yes,No,Yes,Yes,No,No,Yes
+229,1aba9f46eba655851d95c8c554341ccd62a69fe308d21cf5ffe2d87fd980e8c5,Yes,No,Yes,Fiber Optic,Yes,No,No,No,No,Yes,Yes,Yes
+230,71ae147d91096b2562242fd11923a51837f0737d960ae471a5edad573d64f99d,Yes,No,Yes,Fiber Optic,Yes,No,No,Yes,No,No,No,No
+231,ba07257b09d72aaed0ed1cffbbd187c70fc85ebc48d3a9cdad3b3164202013d2,Yes,Yes,Yes,Fiber Optic,Yes,No,No,No,No,No,No,No
+232,cb7c98725c0483f8b089ff09389ee49abe2107d34bf9d923a0b3df3c641f8b6c,Yes,No,Yes,DSL,Yes,No,Yes,Yes,Yes,No,No,Yes
+233,b89914ecbfcb9a21f2a505a4d41a15cffbfc1ca9c6989b54798270112218f53d,Yes,Yes,Yes,DSL,Yes,No,No,Yes,No,No,No,No
+234,0b9535b9eb3b572b86319e3a1d0c06a60b18b35abf3f825569b9f2b7dd9e96ff,Yes,Yes,Yes,DSL,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+235,1951629b505134995e8f559816d56e1e816ead1ce048ab09bcb8f0aa4cddb097,Yes,No,Yes,DSL,Yes,No,No,Yes,No,No,No,No
+236,fd1ace0ab6778a553e45d86d65db607e57a2e886a9622e5e000bf9b945452dba,No,,Yes,DSL,No,No,No,No,No,No,No,No
+237,22ea3e698f6b5fe7f42b52542e21c11e5a64b3e13f462108896618fe41fea577,Yes,Yes,Yes,DSL,No,No,Yes,Yes,No,Yes,Yes,Yes
+238,c5bd46ddbe4fea9f8629f36d4a2fd5fdebe237564364a9df9166e223113ca8f5,Yes,Yes,Yes,Fiber Optic,Yes,No,No,Yes,No,Yes,Yes,Yes
+239,da51427946ecbb72a21aac60fd4f70bc50dcee9397da7597b1bb7222b20d3b79,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,No,No,Yes,No,Yes
+240,b16309fe0e48d5e95ad97b067e142b558e81f10f5a418b576971289baf9d645a,Yes,Yes,Yes,DSL,Yes,No,Yes,Yes,No,Yes,Yes,Yes
+241,fb8b159e00e83f94b9730564faa2da215fd05a5ad0c7beb6465dce5e12d89fee,Yes,No,Yes,Cable,Yes,No,No,Yes,Yes,Yes,Yes,No
+242,52ec805b3afa86edaa4045b90187cde20e4dadf99fd94c983f3869773040c82d,Yes,Yes,Yes,Cable,Yes,Yes,Yes,No,No,Yes,Yes,Yes
+243,08d05aa889cce7865606c777a17d824f4c81d07bfa83b3e5ed8c734adba691e4,Yes,No,Yes,Cable,No,Yes,No,Yes,No,No,No,No
+244,9e480ae06ea044239bd1ccd60990db4a1e24b722cb0c93043f3538441410a98e,Yes,No,Yes,Cable,Yes,No,Yes,Yes,No,Yes,Yes,Yes
+245,6e60f86693f3f584be5cec384990dff8a15aeb9486e410e193913ee3e0ad3d81,Yes,Yes,Yes,Cable,No,Yes,Yes,Yes,Yes,No,No,Yes
+246,77bf1eb6d629c1e91d183cc1f85c4cae51552f045a8a25dfb9250b08535dca5c,Yes,Yes,Yes,Cable,No,No,No,Yes,Yes,No,No,Yes
+247,2792ffe68a89c02256bf2b34da4cfcac6499956580d6230755ac7f738ec0b3a2,Yes,Yes,Yes,Cable,No,Yes,Yes,Yes,Yes,Yes,Yes,No
+248,5b2f2f322651e81fd46ff7d14029f0cf747f08d712870bcdbd1b20aae668e9ea,No,,Yes,Cable,No,No,No,No,No,Yes,No,No
+249,a2ddce2b80aca7cb1bfe54d8bf69fe07dabe6ed419f93825c1262485af38618c,Yes,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+250,0b706380f7a6c13801a5a037c93777d18f0ee9ffb537bd5964124c1fdf838e5d,Yes,Yes,Yes,Fiber Optic,Yes,Yes,No,No,No,Yes,Yes,Yes
+251,9689e7178eabbf2e68f69613e643f9d0ad3158a1bf91ad41c1964b2a85a20725,Yes,Yes,Yes,DSL,Yes,No,No,No,No,No,No,No
+252,1e2a7390d738312ff40c5ec912c1e971a4e619f6f94db5a9587f0ac8eb4e1aca,No,,Yes,Cable,Yes,No,Yes,No,Yes,Yes,Yes,Yes
+253,ec0ac0e9ec0ef7cc343a506659acfef423cd84015143cb7591675ee5b8b983ad,Yes,No,Yes,DSL,Yes,Yes,No,Yes,No,Yes,Yes,Yes
+254,93410a5610cdfe9ad2c4fdb391d5572e8a526ceb33ee73ea7ccc9d7549280f0c,No,,Yes,DSL,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+255,82e348ec9fd4f1972011f355dbbbaa12eec0fe99bd6ddf4a1a92ae40e2680cd2,Yes,Yes,Yes,Fiber Optic,Yes,No,No,Yes,No,No,No,Yes
+256,0a582f9a84953cc533f2b21418b60f29f8ae49e963dff9c5f539fb3ece7c29ce,No,,Yes,Cable,No,No,No,No,No,No,Yes,Yes
+257,d6fbcdf3452d006a1bd3daec43449b5aa833cb66504001de466a6556451acee6,No,,Yes,DSL,No,No,No,No,Yes,Yes,No,Yes
+258,49ca672ff00efe3e9d2090d11847a693a45c27f0a8ae826f6db63e03394a4580,Yes,No,Yes,Fiber Optic,Yes,No,Yes,No,Yes,No,No,Yes
+259,9338a37d2bc52021be9bdfafd44468a6c2ce812031a76575a80725ef507d1dfd,No,,Yes,DSL,No,No,Yes,Yes,No,No,No,Yes
+260,c4cb98881643983147980324b10d2c98bba249866921d94e624cf5b8815cbaf7,Yes,Yes,Yes,DSL,No,No,Yes,No,No,Yes,Yes,Yes
+261,e3171a18bb00eaef87f2939fe01b709c2b8eeafd2e1bace022066ca00333ed1c,No,,Yes,Cable,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+262,35ac18e9cbc86505a2428e45fef49b85b14c67565d5ac35903e4fa78080ae87f,Yes,Yes,Yes,DSL,Yes,Yes,Yes,No,No,Yes,Yes,Yes
+263,806336703edaca2bdc6d2d524557cd0679aaab262f4dbcbc6416bf415e6b8724,Yes,No,Yes,Fiber Optic,No,No,Yes,Yes,Yes,No,No,Yes
+264,b2230e627aacf28b8aad5186d5d6536cc5787709c4abf055b016ad364729463d,Yes,Yes,Yes,DSL,Yes,No,No,No,Yes,No,No,Yes
+265,f19c75fadabc2dcc2520f987e573a87e1ff0bbeaeed4cd83603f02caab91f56f,No,,Yes,Cable,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes
+266,f692e39d4dbcab64506e8d48473914458e9126c5771504f8fdd09a1c88559e89,No,,Yes,DSL,No,Yes,No,No,Yes,No,No,Yes
+267,ae95c9af32f0979c791b84ff7bfe38550d3148988f26e35eb35c141a4e1149c5,Yes,No,Yes,Cable,Yes,No,No,Yes,No,No,No,Yes
+268,db49a0d8373e2e8bd3bd116462b7dc1c83862e52102fc8058d734cf437c05e6e,Yes,Yes,Yes,DSL,Yes,Yes,No,No,Yes,Yes,Yes,No
+269,b6d7b2066c6686c274c9c714b6e577d18ad3d9b3fd57c377bc46d6d7b80ca86a,Yes,Yes,Yes,Cable,Yes,No,Yes,Yes,Yes,No,No,Yes
+270,4bea5bc5ff00060144475181f793e49059327587d25f0878450d5104b55ad8a5,No,,Yes,Cable,No,Yes,No,No,No,No,No,No
+271,b796e8b075d0886b7aeecabde73f1bcf40fcf64dcd36030a91c804781413817b,Yes,Yes,Yes,DSL,No,Yes,Yes,Yes,No,No,No,Yes
+272,f7f2e400100efa0cb95f95a4948a5c802894a8e14d58c7cef10100308cc7eae0,No,,Yes,DSL,No,No,No,No,No,Yes,Yes,Yes
+273,4d1a652913df29381d751063f94b27b14b31328249cfb3100f65daf9bb26edf7,No,,Yes,DSL,No,Yes,No,No,Yes,Yes,Yes,No
+274,0f6c8c514180beb6585131c2d030f17730030ff3e1c61c5061424fc42e2bde4f,No,,Yes,DSL,No,No,No,Yes,Yes,No,No,Yes
+275,8e10dcc579659769244f80bf6129a27e842bec7bd7d1915e949bf5966636452b,Yes,No,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+276,a8648f2705762460d16acf4001b001fd40669f5bf002cf9e5c8bdc0930fbacc3,Yes,No,Yes,Fiber Optic,Yes,Yes,No,No,Yes,Yes,Yes,Yes
+277,b5ca4bc034bd253bed4aa231737b85193fe40aef36d90e13aee2df6f46d3a6a4,Yes,Yes,Yes,Fiber Optic,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+278,5989f1babeec028da1b8bb9d30aa85f791cf1648209ccd2877fa005566121760,Yes,No,Yes,DSL,No,No,Yes,No,Yes,No,No,Yes
+279,662b61fdb506549448e989ac2985d9c0646202dc6a24401d53126acf93227177,Yes,Yes,Yes,Fiber Optic,No,Yes,No,Yes,Yes,Yes,Yes,Yes
+280,488793948b547bd80d0af01931aa9b5b61947e68c4ce59060415aa6b2014d6ea,Yes,Yes,Yes,Fiber Optic,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+281,db51f79889b7c580159c9bb4808c42bf78910078b347baa110bf3e3d3a0a4d60,Yes,Yes,Yes,Fiber Optic,Yes,No,No,No,No,No,Yes,Yes
+282,249bdf59042444d6daf3d13dd3209cbbaca980ce66ed7c15366642b5aaf256cd,Yes,No,Yes,Cable,Yes,No,No,Yes,No,No,No,No
+283,1804e3ded0e8523206f51dd15d82a90ae44428c1f8ed5cfcaa14cb0987528907,Yes,Yes,Yes,Cable,Yes,No,No,Yes,No,Yes,Yes,Yes
+284,21cf30e10f3cda94809196a94c9b7c6c57bec857e8cd3360c114452c2f2dd7f2,Yes,Yes,Yes,Fiber Optic,Yes,Yes,No,No,No,No,No,Yes
+285,5057a6df174d846dd7acc5be682dc7a6027ba529b2e48e0fbb76b761928bbb3d,Yes,Yes,Yes,Cable,Yes,Yes,Yes,Yes,No,No,No,Yes
+286,279444cae6b0e57e7c4011bdc5b77693dac8acfa6838cf5960b7cc1d72f55678,Yes,No,Yes,Fiber Optic,Yes,No,Yes,No,Yes,Yes,No,Yes
+287,382ac5cbed233948f0de27c8ae4699622f55f1dca2cc35ed3bc9cbf8fff2c3c0,Yes,No,Yes,Cable,No,No,No,No,Yes,Yes,Yes,No
+288,1f3605c241e784f7cd4a37b85c4fd5efeffaa3c252bf1d2df9c81c08efd773f8,No,,Yes,Cable,Yes,No,No,Yes,No,Yes,Yes,Yes
+289,e999eb288f3034e4f35fd287129a01242a4d68aa4282cfba06d38d05cba8ed72,Yes,Yes,Yes,Fiber Optic,Yes,No,No,Yes,Yes,Yes,Yes,Yes
+290,cb38d1d1d7fad5d4ab36b514a1f212f909d2f8c095004dceb4d963fdf0f314a2,No,,Yes,Cable,Yes,No,No,No,No,No,No,Yes
+291,53ad0fdb85720f387e7585551352e793b83a6bbccb320bd10cf3ba3fbeb1c984,Yes,Yes,Yes,Cable,Yes,No,Yes,No,No,Yes,Yes,Yes
+292,45154ca7f3711a76dd631f0a46f44ee3e648106327c71a38d93d77b3226e5d85,Yes,Yes,Yes,Fiber Optic,No,Yes,No,No,No,Yes,No,No
+293,774db6decdac00b3f0a824b4144bf70f9b399344da89f7ba4efaa8621008f714,Yes,No,Yes,Fiber Optic,No,No,Yes,No,No,No,Yes,No
+294,0a223d0746eb13de2cd9d17cdc0122906fd927df1b8d655d9903bf07856b1cc6,No,,Yes,DSL,No,No,Yes,No,No,No,No,Yes
+295,b4dc88778c4a12d1eaaf329e9f03d59a14b0caf82dd6f08bcd58162354e32d1a,Yes,Yes,Yes,Fiber Optic,No,No,Yes,No,No,Yes,Yes,Yes
+296,54f8040cf92b85145c5d4d1fce2b79596e0fd94f6a89f854f48560c009f13cc3,Yes,No,Yes,Cable,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+297,4bbeed77b331f5fcc987347cc6724c16e102b7201d9645351cd2fc704e131a88,Yes,No,Yes,Cable,No,No,Yes,Yes,No,No,No,No
+298,f679f3a75eddf0a906e00e5c9186402855b9d6396a9b40522c28553c5933c21b,Yes,Yes,Yes,Fiber Optic,No,Yes,No,No,No,No,No,No
+299,b437db5b5ccc03b210825f1441415cd586136821d17fffd05a3d72d927654807,Yes,Yes,Yes,DSL,Yes,Yes,No,Yes,Yes,Yes,Yes,No
+300,c246fca0cef7d1fc24a2a823e9666f650c96f9301a389035fa1cc844248a01ec,No,,Yes,Cable,No,Yes,No,No,No,No,No,Yes
+301,270c0aebce3e9ce9d020dac3543f9bebb0f357f407b43816ca6eac1b305e244e,Yes,Yes,Yes,Fiber Optic,Yes,No,No,No,Yes,Yes,Yes,No
+302,272dc7eef4f540b0241b5e5029305f4138bd630fbb7c3f15e5b79d8c2168fbe7,No,,Yes,DSL,No,Yes,No,Yes,No,No,No,Yes
+303,1ed7503a7611ccfd8377956846a26b9a39fb50f1291040a2b0413c648f27c582,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,Yes,Yes
+304,e23f284718fef1009d23cd0d78b38ec01bf5af8f4b3b9f436ab2fb89dc410a01,Yes,No,Yes,Cable,No,No,No,No,Yes,Yes,Yes,Yes
+305,7d229204d48e3e2c09f1c66d8ecfda335aabe39bd5fd55f6eb449078e172b0c5,Yes,No,Yes,Cable,Yes,Yes,Yes,No,Yes,No,No,Yes
+306,17e71e5018549a6fc11324801f5734bbd8c9808d75b3fae4e611c873e2c6bcb5,No,,Yes,DSL,No,Yes,No,No,No,No,No,Yes
+307,eafb4c5784cc9f8251a673aaed52aa993d5fb47ff6425f3ee9f27de3f3ee99b9,No,,Yes,Cable,No,No,No,Yes,Yes,No,No,Yes
+308,e44803d4fee9312e8d1d43218d45143e11d7d9b681fd355f868ca9916415f5f6,No,,Yes,DSL,No,Yes,No,No,Yes,Yes,Yes,Yes
+309,c8fe88c93c617fa08a87a90496584568773f2077320ceb3fcf5dbaa88a41159e,Yes,Yes,Yes,Cable,Yes,Yes,Yes,Yes,No,Yes,Yes,No
+310,f4d4c923887f9c302f09be2b35b7e83e0a1612dd381b28f2328240daf050738c,Yes,No,Yes,DSL,No,Yes,Yes,Yes,No,No,No,Yes
+311,213bbb3f9fb1d0c9efff25d8c6a5432545a20790310ba63ae71f3c3a171c019e,Yes,No,Yes,Fiber Optic,Yes,No,No,No,Yes,Yes,No,Yes
+312,37bc72b9f487ac405432358d320b102a8ae922861307e90ea4e99802ea435660,Yes,Yes,Yes,Fiber Optic,No,Yes,No,No,Yes,Yes,No,Yes
+313,3616832a657e8f5709b0100e9b8ee8223344826bda5c8ef11013ecfa0aab8fb8,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,Yes,No,No,No,No
+314,1f393f55605c25cb0d215615f6ec9140fbc8120636cbcd69bbbd595726547cf6,Yes,No,Yes,DSL,Yes,No,Yes,No,Yes,Yes,Yes,Yes
+315,4272c3bf1db5a2c3eb2c54f2d56b4991956e1111520abf162d1e7205d222a0dd,No,,Yes,DSL,No,No,No,No,No,No,Yes,Yes
+316,d2cb79118af5ab2c970d6c310ba75d80c291935b2b2df56c02d840420eb2cc28,Yes,No,Yes,DSL,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes
+317,7b8b4edb751017213f391c2da5f15cc91efb9388e51fa1a01ebed91096f20fb4,Yes,Yes,Yes,Fiber Optic,No,No,No,Yes,Yes,Yes,No,Yes
+318,d6b4f37d567d17520270b26afe34420e3e7ab742a0e50883c8ac6ac82174fbd5,Yes,No,Yes,DSL,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes
+319,129eddb9eb7d28073e7aac925e7bd540e42829020fbc597d42d1a3fbbf7cda46,Yes,No,Yes,DSL,No,Yes,No,Yes,No,No,No,Yes
+320,ef1db97613523def6aedb52e3ae645d097952b6be134c92f273021e6db38d3b4,No,,Yes,DSL,No,Yes,Yes,No,No,No,No,Yes
+321,b139412ece8360b3918589777d0a39a9678eef8df24d67e422f8694ba9652293,Yes,Yes,Yes,Fiber Optic,Yes,Yes,Yes,Yes,No,Yes,No,Yes
+322,d1d1bfcfb9d89c77a7e08efaa06a5f2b6e0f815928f288b172bd30067f4b2606,Yes,No,Yes,Fiber Optic,No,Yes,No,Yes,Yes,No,No,Yes
+323,279a8eb05065c5cf9f223892d0dcc25c6b363f0ed35b961c7d29c1d735581ec4,Yes,Yes,Yes,DSL,Yes,Yes,No,Yes,No,Yes,Yes,Yes
+324,2ad2bfb1dc2adca7db74fc034de1280dd050e820ffdd2e4818d34aa1945bb1e1,Yes,No,Yes,Cable,No,Yes,No,Yes,No,No,No,Yes
+325,588ce091145eb7d0b93b43569832959cc5e97082210dd2e2bb92840f23e552d3,Yes,Yes,Yes,Fiber Optic,Yes,Yes,Yes,Yes,Yes,No,No,No
+326,b5ba3b9e74b0874e04f35a47c941bb26d5ccb643bb86aa326c3969378c6b23e8,No,,Yes,Cable,No,Yes,Yes,Yes,No,Yes,Yes,Yes
+327,7b66d0ae8017e625f2284d70708e22fcdb649dc6b791f0ad28f09d2b68f19e43,Yes,Yes,Yes,Fiber Optic,No,Yes,No,Yes,Yes,No,No,Yes
+328,b8dd958a6c219680912e1a8874b7cb4b98f42d811a939341ce0434d5cb083fb7,Yes,No,Yes,DSL,Yes,No,Yes,No,No,No,No,Yes
+329,41f99507c0d81b963d23692c598d26e299ed0053c8e247450390bf8924649808,No,,Yes,DSL,Yes,No,Yes,No,Yes,Yes,Yes,Yes
+330,96ffd7cd13e86ba7f6a8a584450bc08e4ec59873fe553757240529db1a834df7,Yes,Yes,Yes,DSL,No,Yes,No,No,No,Yes,Yes,Yes
+331,9d4ad1cee4b387505feee3c1e1bc0d0c45e9133f86e5c15770fed14b88dc51e3,Yes,Yes,Yes,Fiber Optic,No,Yes,No,No,No,Yes,No,Yes
+332,42d7a4448961a40e533f4f78505660f404a3ec68fafde2ca4a5b8ba45d4e1b55,Yes,Yes,Yes,Cable,No,Yes,No,No,No,No,No,Yes
+333,447ce3b4693b56d2942d4969aa3c3166be5248448e32112df0d28349aadec170,No,,Yes,DSL,Yes,Yes,No,Yes,No,No,No,No
+334,591e5dfb2785069706ef7d81aa437636da0985a02b40b0179f1cb031e3cdb78e,Yes,No,Yes,DSL,No,Yes,No,Yes,No,No,No,No
+335,f85cbbf07e79cac6ad05e81df6dba031012476ed91eed61a82f054a9ad46f202,Yes,Yes,Yes,DSL,No,Yes,No,No,Yes,Yes,Yes,Yes
+336,cd848aafb7bce9ba601c0a02738b4943d9e0ef94fb54ed703bfcc18727b7801f,Yes,No,Yes,DSL,No,Yes,Yes,Yes,No,Yes,Yes,Yes
+337,653e3bef80e907d608bfb79dc1f1b639cc729c0a1b2de6ca093cde6c65e6974a,No,,Yes,DSL,No,No,Yes,Yes,Yes,Yes,Yes,No
+338,a9cefc311fac72ed7492c48d7fc41d7c3b0daebf693891a491e0fb8aec09f4e0,Yes,No,Yes,DSL,Yes,Yes,No,Yes,Yes,No,No,Yes
+339,be12146b4fa434e297d88cda17414e3df6a736604312a7e22ee7cc5d2f70dfae,Yes,Yes,Yes,Cable,Yes,Yes,Yes,No,Yes,No,No,Yes
+340,192af5d25a9d59b756d9c2829cabc0944c664ad66e0df91aad97ab50a0d1a9c8,Yes,Yes,Yes,Fiber Optic,No,Yes,No,Yes,Yes,Yes,Yes,No
+341,23e1a745387e5a4957fc118dccc2614edfc75eed5b670bf8e4edb05bbc216f4d,Yes,Yes,Yes,Fiber Optic,Yes,Yes,No,Yes,No,No,No,Yes
+342,66089b5842d350b920608137006d08008027bb70905ccb32243cbf954a352c75,Yes,Yes,Yes,DSL,Yes,Yes,No,No,No,Yes,Yes,Yes
+343,30ecbf466a496e04e9f58998170850bf3aebad5f066c93fa1d7d266608fc17b2,Yes,Yes,Yes,Fiber Optic,No,No,No,Yes,No,Yes,Yes,Yes
+344,e566f5cb47fcd7e0b76dde122e3a2366d5acfba1229755d918473a8a934d727e,Yes,No,Yes,DSL,No,No,No,Yes,Yes,No,No,Yes
+345,e6566f14d9614567b26ecbb2480564b43d008f94c887e9b47b268d5cea4f83e0,Yes,No,Yes,Fiber Optic,Yes,Yes,Yes,No,No,No,Yes,Yes
+346,b8afc0e7bc05b32b0b8b02905eaedd1fdeadba006f66f79b50df26929dac9f98,Yes,No,Yes,Fiber Optic,Yes,No,Yes,No,No,No,No,Yes
+347,5d8a7d67a932c6d46a5d6939e2ec70ab9ec6c6af8f24c7cabd7e786a9bb00bb8,Yes,No,Yes,Cable,No,No,Yes,No,No,No,No,Yes
+348,10d697ba9f00d59244e18fcd0dce2a9b8c2a0e5399c2990daea4663eb2a16109,No,,Yes,DSL,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+349,0d6307631be389f5ffae3c0a76e353d6a60b7053d8f411d4860b424b1ef30bc1,No,,Yes,Cable,Yes,No,Yes,Yes,No,Yes,Yes,No
+350,696d2ce1763a296415c8d7f71a784b94315aed4ae3fca88b08a608fac8e23f14,Yes,No,Yes,DSL,Yes,No,No,Yes,No,Yes,Yes,Yes
+351,1a7c8fbad67ab1f20233d71ab6a5531b64d3dc807a6ec462be7ade90e50d73a1,Yes,No,Yes,DSL,No,Yes,No,No,No,No,No,Yes
+352,b4d177c44ff642e75c53fea5cb4dabc37e87ec2bf775799adc883319ce042fd6,Yes,Yes,Yes,DSL,No,Yes,No,No,No,No,Yes,Yes
+353,cb61c151384b7c3b0efc33e6976e2a5efff76d0553aa11de0f58e2dd481e3421,Yes,Yes,Yes,Fiber Optic,Yes,Yes,Yes,No,Yes,Yes,No,Yes
+354,31a55b34a893acfbaf7f2642c41f4be97e1995568d2671dd1b3cc0a5cf262d08,No,,Yes,Cable,No,No,No,No,No,Yes,Yes,Yes
+355,9919853f2f7176388a128dd6824ebf809d12837b533cb8aae13296fedadbe577,No,,Yes,DSL,No,Yes,No,Yes,Yes,Yes,Yes,Yes
+356,8259abfba9b9cd77a45f1ebffc33ce06b89b2be03ed9ad42db014f6873229e06,Yes,Yes,Yes,Cable,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+357,b85677db9a55581d3006c6eb6ec04105944c96c38116806231f73ed61588d207,Yes,No,Yes,DSL,Yes,Yes,Yes,No,Yes,No,No,Yes
+358,e2e94611c12dedb8635d006b8de3ec09474406c2a06732f346d2f770ebe833e5,Yes,Yes,Yes,Fiber Optic,Yes,Yes,No,No,No,Yes,No,Yes
+359,fd92d3662ff24bf856775fbd2a0ecda8b78bbd6f5969bb4e68841084fc787ec4,No,,Yes,DSL,No,No,Yes,Yes,No,Yes,No,Yes
+360,d1beb5f9bf3ea8a2aa92b76e321efcd98255e3a5d5ff34d6d874aa2a13c88e0b,Yes,Yes,Yes,DSL,No,No,No,Yes,No,No,No,Yes
+361,f4fe5153e2ebb7e6517192bf204a2ad4ea7d9c06cc231fd5bb596ed161dd8a76,No,,Yes,Cable,No,Yes,Yes,No,Yes,No,No,Yes
+362,fcd6e1a9e1d733d18e74a5852c64a5b677f7ecdaa3bd0773366ddaab8599ce49,Yes,Yes,Yes,Fiber Optic,No,No,Yes,Yes,Yes,Yes,No,No
+363,653715db88921ba2118138ce4fe0bf1d7b7c662a11d1a1e62da90a23ec78ca2e,Yes,Yes,Yes,Fiber Optic,No,Yes,No,Yes,No,No,No,Yes
+364,e5f057479473a2aa2d359bcd088108e6612a28aefb887a0b25c2d84c9784a004,Yes,No,Yes,Cable,No,No,Yes,No,Yes,Yes,Yes,Yes
+365,01dfaeef653f46319939222b572d95397f974ee2fab4580528c63bbdb5fa80d3,Yes,No,Yes,Fiber Optic,Yes,Yes,Yes,No,No,No,No,Yes
+366,cc80c5c2c16ffb339fa2f3f4d132a4e1ea150eb65faeea91bdb4d2f2cc988b47,Yes,Yes,Yes,Fiber Optic,Yes,Yes,Yes,No,Yes,Yes,Yes,No
+367,108f388f17d71886f6958e4ca6b33fa68094779226e6273bb6681985bca5b2ce,Yes,No,Yes,DSL,No,No,Yes,Yes,No,No,No,Yes
+368,b1293a98b8ea267886e83a380436a89db6294b09e8a0a6e7b18cb735c035f225,No,,Yes,DSL,No,Yes,Yes,No,Yes,No,No,Yes
+369,50a55b3c17c86916701d616a17bcdb0f6d749cce8a4877257582292bf19343b9,Yes,Yes,Yes,Cable,No,No,No,Yes,Yes,Yes,Yes,No
+370,6898d7c0ef8eb1e9e7ae6b108bb79aeaf57fc8234e9fe7bdeddd8659ebf127de,Yes,No,Yes,DSL,Yes,No,No,No,Yes,No,No,Yes
+371,9d20261b858d217c38d7099aa023dfcc037feed4f39973a699d502409574261b,Yes,No,Yes,DSL,Yes,No,Yes,Yes,Yes,Yes,Yes,No
+372,5421735595f563b4379e72498120caf9568a5f12c6fca5f2b71dda8bac6bebe9,Yes,Yes,Yes,DSL,No,No,No,Yes,No,Yes,Yes,Yes
+373,acc193cee5ec61527cdef6ed0c15bc0a95c55b7473a8affcb57af94579191f31,Yes,Yes,Yes,Cable,Yes,No,No,No,Yes,Yes,Yes,No
+374,72052e5bc3d45ffee4f8ef7874417ff3543ef467369536b3a269467d2e53a089,No,,Yes,DSL,Yes,No,Yes,No,No,No,No,Yes
+375,5ee3b4cbd3cbec4276c466f774ab899ecf4b847393bdef3cc5d5d1f3e89b4d21,Yes,No,Yes,DSL,No,No,Yes,No,Yes,Yes,Yes,Yes
+376,1da42a6894e41da2a4e0fc18deb6b0cd9d810e6561784130022cfd12f545da41,Yes,No,Yes,DSL,Yes,Yes,No,Yes,No,No,No,Yes
+377,dc656a32464fe80ad50cd3ee3e5c1aabae9a0edf8f0c39d0d2a6912d6237e300,Yes,Yes,Yes,Fiber Optic,No,No,No,Yes,No,No,No,Yes
+378,54d661b15b67af04a54bff99059eaecea9fea55929375b138f06232a94122964,Yes,Yes,Yes,Fiber Optic,Yes,No,Yes,Yes,Yes,Yes,Yes,No
+379,1dae07b578cabd5a119a34bea4f906677625d7a5590b4a308b700bbba72d7580,Yes,No,Yes,Cable,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+380,ee37ba27ad8890ab81b6fad2a833a95281d71c6aa2eb57ca9307913a99852516,Yes,No,Yes,Fiber Optic,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes
+381,c11cebf35a872668521d54448cc6d42ac9ca60c27a15fa4a5759338f9b6a80bd,Yes,No,Yes,Cable,No,No,No,No,No,Yes,Yes,Yes
+382,089cd5bfd468d8a9950eabdcec1f7048722e03604cc7c80a56777c1a268075ce,Yes,Yes,Yes,Fiber Optic,No,No,No,Yes,Yes,Yes,Yes,No
+383,3e4403c442e2cdb3a399db394276814c7e80f0a55520f5466885789fb61f3783,Yes,No,Yes,Fiber Optic,No,Yes,No,No,No,No,Yes,Yes
+384,a75c008aa60541fcf2246c9e2fb4f4964a33f7238af6df3899d74feca5a3d3e5,Yes,Yes,Yes,Fiber Optic,Yes,No,Yes,Yes,No,No,No,No
+385,e559c567b88559e4f8e70d4ac3d20a0f4f4e20fb16ec31266fc149a91a8bfe24,Yes,No,Yes,Cable,No,No,Yes,Yes,No,Yes,Yes,Yes
+386,ee281f58d3141456b4f9379f901df05181839083317afc91cb03d67fea0e0486,Yes,Yes,Yes,Fiber Optic,No,Yes,No,Yes,No,Yes,Yes,Yes
+387,ad4c1d398e101be67a686530d6dbb3fdc6cc1ccbf57fb2dff052fa547aba9d97,Yes,No,Yes,Cable,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+388,4a47fe09a6b69697fb1687097d16c5dd1c2c5fc9cba200d0755ada5845df5915,Yes,No,Yes,Fiber Optic,No,No,Yes,Yes,No,Yes,Yes,Yes
+389,69efb0387a99168889c1fa4e25dfd380d9390bb0fe07d4c688659c184748dd6f,Yes,Yes,Yes,DSL,No,No,Yes,No,Yes,No,No,Yes
+390,ac64dc0de3e30c615afc95cce7cb41a4087bd88eb35b1f721bee511c0d6694ec,Yes,Yes,Yes,Fiber Optic,No,No,Yes,Yes,No,Yes,Yes,No
+391,0a61ce73bbe012aff88842f667c2a26c250d9a338bde7270b2be786c17f187e5,Yes,Yes,Yes,Cable,Yes,No,No,Yes,No,No,No,Yes
+392,8b287e2f7ac769a4beee054f61022c7a92eb5d84386dea485df6a390f202e4a7,Yes,Yes,Yes,DSL,No,No,Yes,Yes,No,No,No,No
+393,8ec9d7d3d42db0035f2f207944101a2645cc064c36fdb4c8ca2eed7090efd22f,Yes,No,Yes,DSL,Yes,No,Yes,Yes,Yes,No,Yes,Yes
+394,8cb19372e0652e2109b828a23c843ba491698fedf05f464bbaa3bf5fc4774424,Yes,Yes,Yes,Fiber Optic,Yes,Yes,Yes,No,Yes,No,No,No
+395,7a5d3c6b348c3b2db9dd00dba72bf4c4b6ae0b8f7ca5fa91bbe1f3f23d6ec4d6,Yes,Yes,Yes,DSL,No,Yes,No,Yes,No,No,No,Yes
+396,a319b1bd2fb4e7f8c9706925b04055c85c211268099d4e18dc7391c6e4d034fa,Yes,Yes,Yes,Fiber Optic,Yes,Yes,No,No,Yes,Yes,Yes,Yes
+397,38f0cf51809320c26e638ef6c26f54243e78273bad8a2694169daf52396b8bb3,Yes,Yes,Yes,Fiber Optic,Yes,No,No,Yes,Yes,Yes,Yes,No
+398,4cbb42d35e8db5fa234a42c00534543dd838bcacd96931a688aa292bea9304e4,Yes,No,Yes,DSL,No,Yes,No,Yes,Yes,No,No,Yes
+399,8ea1b53f518c39802fef948974f3b0d8b11b93fa186e0fdb9fdc234f42e4cc46,Yes,No,Yes,Cable,Yes,Yes,No,No,No,No,No,Yes
+400,ead7b167e742ae0a59a555c5e2688f14fae099e63c929229938705a2cee44f95,Yes,Yes,Yes,Cable,No,Yes,No,Yes,No,No,No,Yes
+401,8547d8e8ab89d139c6938b5ce0dbf73d3e7dcc1dbb6c4dc14f00bddac620489e,Yes,Yes,Yes,Cable,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+402,3f3b913978cf75f840e8799b3ccd67abea45e23e6ea1b9f570f880c4d906bd26,Yes,Yes,Yes,Fiber Optic,Yes,No,Yes,No,No,Yes,No,Yes
+403,ca001c6df2bf7f00e0f3094d1afeb3667b1f303bbe9274a1d31acb3be8e0b2ab,Yes,Yes,Yes,Fiber Optic,Yes,Yes,No,No,No,Yes,No,No
+404,5183d7e1e6a166342f057e6deb3038413331a0bd0d91b339d6eaca1a5034c197,Yes,No,Yes,Fiber Optic,Yes,Yes,No,No,No,No,No,Yes
+405,60b777a7e8da3e95ad2d1cb46c600240bae71a86cb740ca82b8edb013bf82686,Yes,No,Yes,DSL,No,No,No,No,No,No,Yes,Yes
+406,79e0a888b7679fe0cc71508cf8ab2678ebca38160da95bc55b37d4f01148b90f,Yes,Yes,Yes,Fiber Optic,Yes,Yes,Yes,Yes,No,Yes,Yes,No
+407,011b6b484d40459ed73a2d6374afa68d6cc6e7962664c929172998ec71989874,No,,Yes,Cable,No,Yes,No,Yes,No,No,No,No
+408,046431b97fe747eaa22ffbb0fa2a89c2f401610dd985099efc26e9140422a12e,No,,Yes,DSL,No,Yes,No,No,Yes,Yes,No,Yes
+409,8788a442eb3ebc44c37315bc5185dd99958666bd83c91a306a521b1aeb6378e7,Yes,No,Yes,DSL,No,No,Yes,No,No,No,No,No
+410,e3f3b36dde493dccf74dd2b94d1068929ee6169452d1030906ae21253ab36d65,Yes,Yes,Yes,DSL,Yes,No,No,Yes,No,Yes,Yes,Yes
+411,5487ecab43f44ae574f8b3c595f32b7c6b24b729a3fce4b820cf0d456c964187,Yes,No,Yes,Fiber Optic,No,Yes,No,Yes,No,Yes,Yes,No
+412,f5b72450914e23c5dea7f47b815902e405ce3cbfe87a590a87fdcd734d709ceb,Yes,Yes,Yes,Cable,No,Yes,No,Yes,Yes,No,No,Yes
+413,c1a62c4705b491e4147cec5e5dc85dae2b6940c10ec8ffc5f1ce68eece63c115,Yes,No,Yes,DSL,No,No,No,No,No,No,No,No
+414,9bbdda25b474d811231a04905ba385f72f8745176ea0372ac5874bae30a8b066,Yes,Yes,Yes,DSL,No,Yes,No,No,Yes,No,No,Yes
+415,708c9121236ab8b94ab59594e8e39e77910eed1235ddcab9876a9aa3642cdbe7,Yes,No,Yes,DSL,Yes,No,Yes,No,Yes,No,No,Yes
+416,48163843f112c5e53e4ed2413498534ddaf0d4a6a19a0b1963ed5794c388b7ea,Yes,No,Yes,Cable,No,No,No,Yes,Yes,No,No,Yes
+417,ef887a2d6cdf25bef8c923e2ca4748cfba1b00399b01b9e776256b787e6060af,Yes,Yes,Yes,DSL,No,No,Yes,Yes,Yes,No,No,Yes
+418,f3879cc50541c3180b9624a7bfe754d2c26d32e61cd38f9e297e04f4e4c15e59,Yes,No,Yes,Fiber Optic,No,Yes,Yes,No,Yes,No,No,Yes
+419,5415e848244cc48d642de67f6d830c76c1cc5b309310c98f64653caf149d99bf,No,,Yes,DSL,Yes,Yes,Yes,Yes,No,Yes,Yes,No
+420,aaacd2a5a3895c5f57f22f72614edddc8c38da56d4e61a18957908670569f317,Yes,Yes,Yes,Fiber Optic,No,Yes,No,No,No,Yes,Yes,Yes
+421,c4fc90853032dcfe076cb23dee8cb829d857d3ced4561be4f9d093b31ecd7946,Yes,No,Yes,Fiber Optic,No,No,No,No,No,Yes,No,Yes
+422,16cd4c9a6394351bbeefa15b7ecd23dfdd9e78c4f3a298a7c0eb1449130ab70d,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,No,Yes,No,No,No
+423,8cc8cadc15888aacf4ed45cc6b1e92759af662067219052ae9a957926a315bfa,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,No,No,Yes,Yes,No
+424,5008daf0785d3104a1ad07a7c7a1f435439bdb1f08849ee0c20374b28f921e8c,No,,Yes,DSL,Yes,No,Yes,Yes,Yes,No,No,Yes
+425,3b2fbf401a27fcbeae167ed5d1e151e1240b76244ba4cf893ae4e4fe6de4c6d0,Yes,No,Yes,Cable,Yes,No,Yes,No,No,No,No,Yes
+426,7a4aba5e7f144e2473c50870841ba1dbb95c11905698c359506524fa007df02c,Yes,Yes,Yes,Fiber Optic,Yes,Yes,Yes,Yes,No,No,No,Yes
+427,76eebe48c3fee3e222c8cc09f9d0420fb1325f19b292bfbcc83d5f670e4885b1,Yes,Yes,Yes,DSL,Yes,Yes,Yes,No,No,No,No,No
+428,2becbf97404a97c9f7198e0c648f92de2a0a087adddedbdeb704ce911bcd2b21,No,,Yes,DSL,No,No,Yes,No,Yes,Yes,Yes,Yes
+429,dbdaab90cff660146181da57a74812876f28586948395dc1240fccea07ca2e26,No,,Yes,Cable,No,Yes,No,No,Yes,No,No,Yes
+430,2feb3ef6c7033ac32dfcb8d8e6393ee6a0f5bc8fdfe849621a2473a6b0d86393,Yes,No,Yes,Cable,Yes,Yes,Yes,Yes,No,Yes,Yes,No
+431,e1b31878ba32e88e0247ad1d96d2280c2280cb111954b356c040df658b6ed67f,Yes,No,Yes,Fiber Optic,Yes,No,No,Yes,No,No,No,Yes
+432,9e99e492f30c1bf75b4db39f0912078b62536ce1ed78825499b7a88d5c10fb71,Yes,Yes,Yes,Fiber Optic,No,Yes,No,No,Yes,No,No,No
+433,b6cf10833db73c6be1d7b901cad2992bde7fa9511f8e32a722baf8d52f786124,No,,Yes,DSL,No,No,Yes,No,Yes,Yes,No,Yes
+434,4f618ed5f2f96ffe5c5344046f00c9ae48c41ede78f01913029b7b04e1532406,Yes,Yes,Yes,Fiber Optic,No,No,No,No,Yes,No,No,No
+435,a8e93bd1ddf973286abe360ed0b0ed541b38ac454c5c5e1fc661c10b5a71f87f,Yes,Yes,Yes,DSL,Yes,Yes,No,No,No,No,No,Yes
+436,e9ea00241ca4b922f0a9deca28440cdba55bda254442164d942444cb40372479,No,,Yes,DSL,Yes,No,Yes,Yes,No,No,No,Yes
+437,a2972102b93fd937d383a8237c3e200766948c0749272b5e209bc0fe2c77fb97,Yes,No,Yes,Fiber Optic,Yes,Yes,No,Yes,No,Yes,Yes,Yes
+438,d1da29afd261d0b057af4b7a44013b122afc10f6a8eba6d068c3d6c6d5ff4aa9,Yes,Yes,Yes,Fiber Optic,Yes,Yes,No,Yes,Yes,Yes,Yes,No
+439,8f5c7760f96d82db434ec79a712d16acc41df2eb949c5f3e1523dadc80dcdf7e,Yes,Yes,Yes,DSL,No,No,No,No,No,No,No,No
+440,4fb48de39c9e92740ae8187f8a8ef9bdeb2fddbb3fd2e31b6a00c4a2b75f6baf,No,,Yes,DSL,Yes,Yes,No,No,No,No,No,Yes
+441,84aad00d6b5bb958e3963267e5552357ea8f6cfbb12ab7c20e669bb5fea5de4b,Yes,No,Yes,Cable,No,Yes,Yes,No,Yes,Yes,Yes,Yes
+442,e4b463f251a1ffdccd331f989ef2dd74e9a6f75dd4b57ddf741ee9e644fac0d5,Yes,No,Yes,Fiber Optic,No,Yes,No,No,Yes,No,No,No
+443,57c7d17b28481fa1769c1a6abbfe9385eccf443449e01a330af0d533866f20e4,Yes,No,Yes,Fiber Optic,No,No,Yes,No,No,No,No,No
+444,a45fe15d3ae909747325d70b283bf22f7010e4859f4bad8db3367dd57b90b99f,Yes,No,Yes,Fiber Optic,No,No,No,No,No,Yes,Yes,No
+445,c1fa9d61a98590938bbb92aa70566306c4ba19e271898c1c54691b829e6ec30c,Yes,Yes,Yes,Cable,No,Yes,No,No,No,Yes,Yes,Yes
+446,8c8f10089f5c6312c0b7af1f9202a2ef1652a966aecb87cf29f96b9c0b73fa57,No,,Yes,DSL,Yes,Yes,Yes,No,Yes,Yes,No,Yes
+447,66bfe6ed76707d65d4fa9e42dbf2ea2a94013dfc809cbcb5de2647b20f8573c5,Yes,Yes,Yes,DSL,No,No,No,No,Yes,Yes,Yes,Yes
+448,27d936c490553df3b7a21deef0e96bf7733541c83072c755b151d18f75844efd,Yes,No,Yes,Fiber Optic,Yes,No,No,No,No,No,No,No
+449,330dd6abd81d925a68b5b586e685da60bd472e95cf278241c8c853e73fcaf71b,No,,Yes,Cable,No,Yes,No,Yes,No,No,No,Yes
+450,884d677d5065c4aa4b2575d55f6df2a4a25742ddc39a75dfe03a99ad627456e7,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,Yes,No,No,No,Yes
+451,f393d1e7ad08f94fdc60dae201f33f82cd2c90ce8d7a90270b2d1e34ebcbde13,Yes,No,Yes,Cable,No,Yes,Yes,No,No,No,No,Yes
+452,c758ef06e3bf3952574d2fe4d327549cc34d8be8410aeaac4dc0392510edb34d,Yes,Yes,Yes,Cable,No,Yes,No,Yes,Yes,Yes,Yes,Yes
+453,cc08e179906f7071b202f6a8582d5c8c6b7b8a380e05ca29e7d8cd073374f575,No,,Yes,DSL,No,No,No,Yes,Yes,Yes,Yes,Yes
+454,7389f126fbf8502c2cdc34a96cfa88ee7a65ccf777d2ab4a50846625143e9c10,Yes,Yes,Yes,DSL,No,No,Yes,Yes,Yes,No,No,No
+455,321b6c1489de10bd5c8d75738541f94f217563ebfa784e94c426c82d2d1c9a42,Yes,Yes,Yes,DSL,No,No,Yes,No,No,No,No,Yes
+456,0b2f59d5d828e4c4877cce3435d62ee4e24c7451067bb95b78758d379cadc781,Yes,No,Yes,Fiber Optic,No,No,Yes,No,Yes,No,No,No
+457,d8dead138089773c7434c7fbc6a7ca404bde3a3d4acfd917a197cff02122326b,Yes,Yes,Yes,Cable,No,No,Yes,Yes,Yes,No,No,Yes
+458,0be712c65437affc3aeb1ecd278c6921c1cf20e6b5a7a6e69f7fd1f5a0b3f0f7,Yes,Yes,Yes,DSL,No,Yes,Yes,Yes,Yes,Yes,Yes,No
+459,ca18aa0b6c8b47c934ba67afc52b266afa3f9f85176bedd1e27c90be94727f88,Yes,No,Yes,Fiber Optic,Yes,Yes,Yes,No,Yes,Yes,Yes,No
+460,8c43b57e6973099a59c4433475bd8ae8e4ce241388e60cbd28c60947033a9c42,No,,Yes,DSL,Yes,Yes,No,No,Yes,No,No,Yes
+461,135c9317c5fb5b89be2fe0f4eb97b9cedcec99c8dd684482f0a3632b1b459c3a,Yes,No,Yes,DSL,No,Yes,No,No,Yes,Yes,Yes,Yes
+462,3c896ad49b3c33d39c4f5529bb072440a9b578b8f438e38c1b37a682a7919d51,No,,Yes,Cable,Yes,No,Yes,No,No,No,No,Yes
+463,5a249a70fc4326eaec1d0b726f5e00048f6d8248872082cc7b423f7edf98a185,Yes,No,Yes,DSL,Yes,Yes,Yes,No,No,No,No,No
+464,f6a876b2dd0f66b57347ecbd381e7d8ea1cd19455da6c03219803cd4f19d67a4,Yes,Yes,Yes,Cable,No,No,No,Yes,No,No,No,Yes
+465,e3ea2a17de0464e2de0bf237799e7d7fbad6ffd2a9a4005635a3f8b8df5696ca,Yes,Yes,Yes,Cable,No,No,Yes,No,Yes,Yes,Yes,Yes
+466,c1f2d18e9f0352360d9b92a5c6e6d2aaced80cbd51e720240e6f738d2f70087e,Yes,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,No,No
+467,9051accc196c357a2336a4a10fe1c361cabaec72e58f5f706daae608c5ec1764,Yes,Yes,Yes,DSL,Yes,Yes,No,Yes,No,No,Yes,Yes
+468,ca1c15a978915170ad83097b04d6d0018ff22817cf72082a8a5c785a2256d952,No,,Yes,DSL,No,Yes,No,No,No,Yes,Yes,Yes
+469,31768aceba5d590d8123063206a4bf9fc26cb53e8386fb99e2a93b4ac698bafe,Yes,Yes,Yes,DSL,Yes,No,No,Yes,Yes,Yes,Yes,Yes
+470,4d8179678f6ce607ca4773ec1cda47aa6e33e51fe23d0ee62ecd38ead9cc76da,No,,Yes,DSL,Yes,Yes,Yes,No,No,Yes,Yes,Yes
+471,47ef06612c25a130650d4516f8e583331f69602886c69fa8369bf72620055a60,Yes,No,Yes,DSL,Yes,No,No,No,No,Yes,No,Yes
+472,a6d2fa2b812fee9699bfe12017819b890c262ce04bc0d6e5c19f71cee308a262,Yes,No,Yes,Cable,No,No,Yes,No,No,Yes,Yes,Yes
+473,0dc46ad4193202c3694ab2ebe309bb821133d5be158503a6c913f7ff1070ea45,No,,Yes,DSL,No,Yes,Yes,No,Yes,Yes,Yes,Yes
+474,809e208d3a29019f08dea6cb915b05debf4e590ef2247525edcc01fa75bb8fc8,Yes,Yes,Yes,DSL,No,Yes,Yes,No,Yes,Yes,Yes,No
+475,ff3d11853bd67ea9d7375f8337e32d2418cdaa6b7831919d3530a16196e88e35,Yes,No,Yes,Fiber Optic,No,No,Yes,No,Yes,No,Yes,Yes
+476,e8c6bc333f329b974e3aa2a22624986e713bae9e45772cc77fb974a959f8749c,Yes,Yes,Yes,DSL,Yes,No,No,Yes,No,No,No,Yes
+477,1adab8c74e11356ddd2b1c6188af15515e722cd4f6a0d653fdfd30ce2c2b0ee5,Yes,Yes,Yes,Fiber Optic,No,No,Yes,No,No,No,Yes,Yes
+478,06cac4342041abe61d6624be7b2c7a460eee6eb3f878855593caf77934757d10,Yes,Yes,Yes,Fiber Optic,Yes,Yes,No,Yes,No,No,No,No
+479,dcfcff80aa7a6dc23c84739b9b0a562acf635e79e64244687eb02c60e18a33f4,No,,Yes,DSL,No,Yes,Yes,No,No,Yes,Yes,No
+480,64823652cb221312bca75bc510e0695813997a74b7f194dbfbfd80794b728d87,Yes,No,Yes,DSL,No,No,No,No,Yes,No,Yes,Yes
+481,d7e91b701f27fcc17c118dfcf38d10c593d39cbc7ad7d5f02b3e6723fd9c5124,No,,Yes,DSL,Yes,No,Yes,No,Yes,No,No,Yes
+482,c069364d644867e1c07de2b219c5ee561a483d22d06ef312a0b30741288f845d,Yes,No,Yes,DSL,Yes,Yes,No,Yes,Yes,Yes,Yes,No
+483,94e0d41f768ee565ce5dcdfd3f6d3233c709ae72a15ff03d052ed46fff527f33,Yes,No,Yes,Fiber Optic,Yes,No,Yes,Yes,Yes,No,Yes,Yes
+484,6181b07804f8719a914f0421c6730b51559d5b6463a8ab61810690e1d5535c04,Yes,No,Yes,Cable,Yes,Yes,No,Yes,No,No,No,Yes
+485,8e3e1ba28b103a52baf9b90d25f5079ff24ebb72a049943e149f9485e0ce98ac,Yes,Yes,Yes,DSL,No,No,No,Yes,Yes,No,No,Yes
+486,ac1bd3ee6fa3e5e72fd30e2cceab61e5235d96f0460ef584ec3989917796b8c4,Yes,Yes,Yes,Fiber Optic,Yes,No,No,No,Yes,Yes,No,Yes
+487,06b4d79a8771857429720af35f6eecc42550ef9fbcb966b8ad64106d42aae727,Yes,No,Yes,Cable,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes
+488,c7535ce15c0266029be1b2f303392efcdab5264f779a9fd2007de91f3828b5d0,Yes,Yes,Yes,Fiber Optic,No,No,No,Yes,Yes,Yes,No,No
+489,5a98b6cf65dbf16dda48d45845bd275eb39df6c7267fb251530715d226191975,No,,Yes,DSL,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+490,58b2115e4ff9741b9926aa8578a6c609c4beafcac2cbe3801a874210001750bf,Yes,No,Yes,Fiber Optic,No,Yes,Yes,Yes,No,No,No,No
+491,ef1a5220cc1af59bcc59aecc23e4a162d79874f9f37cdcaf024f28d7a078cd7b,Yes,No,Yes,DSL,Yes,Yes,Yes,No,No,Yes,Yes,Yes
+492,6aaab750f99b4540a65a95de575d721ab4cc2f777c5683ae16a823e36bd1d90b,No,,Yes,Cable,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+493,2ce8328e2c43c0c11a22578abaef3b3b7eb168058cc4f53add1dbb08525eddb6,No,,Yes,Cable,No,No,Yes,Yes,Yes,No,No,Yes
+494,c707152bab57d1dce3916d1052b0e3a25cafb763d58ba019f9727e44bd8f168c,Yes,No,Yes,Fiber Optic,Yes,Yes,No,No,No,Yes,No,Yes
+495,c9c9b676245e3c2591bd62bfee6d445001ba0dc39dc53c0df32cfdef7566f29e,Yes,No,Yes,DSL,Yes,No,No,No,Yes,Yes,Yes,Yes
+496,8bf04c59454ec959e09c451a061050442787542c25e5e973eedc4c1d79c7cdf7,Yes,No,Yes,Fiber Optic,No,Yes,Yes,Yes,Yes,No,No,Yes
+497,2cc98ae2847c70a4621e0cc641788c7a5bba3f1c81eb60a1afc17c1806bd436f,Yes,Yes,Yes,Fiber Optic,Yes,No,Yes,No,No,Yes,Yes,Yes
+498,39176576b1136076ea5bba0b631be0e6d20984889d3ff3bbbb5eb5b4ced7d04f,Yes,No,Yes,Cable,Yes,Yes,Yes,No,No,No,No,No
+499,cf0eea6308857aeaeee29b8eba60d081fdb28000fd87074671047e3708c23783,Yes,No,Yes,Cable,Yes,No,Yes,No,Yes,Yes,Yes,Yes
+500,98924fa5d8c7adf439e60b7f1317e06ccd9113cbb922df02e0783316118f5def,Yes,Yes,Yes,Fiber Optic,No,No,Yes,Yes,Yes,Yes,No,Yes
+501,1207f2037e7d513b733031e873e96247ce8a7600e15801ad8a070fab50d6d694,Yes,No,Yes,Cable,Yes,Yes,No,Yes,Yes,No,No,Yes
+502,ccada5c721d03250fc361ff4ae95cd9c4d934984f6c11ed71426d02f66472cac,Yes,Yes,Yes,Fiber Optic,No,No,No,No,Yes,Yes,Yes,No
+503,221232abd88f609af83c835ad16c926dc09ea74325a76132672ee9009eb02d25,Yes,Yes,Yes,Fiber Optic,Yes,No,No,No,No,Yes,No,No
+504,3348638a1483b9ca09c55c0feaa10fe8f10a53e13b14413985b5376f587064b4,Yes,No,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+505,cfb227f3f3c0d88732170bc7b45f58a1d81a4a2d49e29356e4324ca59467c529,Yes,Yes,Yes,Cable,No,Yes,Yes,Yes,Yes,Yes,No,Yes
+506,bf24725f83122653d07d1fae7d999dced0caab197add239295fa81be0d5c8bd8,No,,Yes,DSL,Yes,Yes,No,Yes,No,Yes,Yes,No
+507,2ba0e68175190a5367f16a55033c9b01dbba0dbdebbe3eae6388dec9962e0a89,No,,Yes,DSL,No,No,No,No,No,Yes,No,Yes
+508,ca72e6ff870130dd5605ed4690410c546610eec69b1a276255e4a32f56930edb,Yes,Yes,Yes,DSL,Yes,No,No,No,No,No,No,Yes
+509,b6a3001b4faa26307c9142b9a3e86c05677a87667eeecc1a9e73bd660ab8ccfa,Yes,Yes,Yes,Fiber Optic,Yes,No,Yes,No,Yes,No,No,Yes
+510,5e9931a7e1e34da6ecdb2c7b0d41878f2cc0f66de67f3939cae672a4b3c4705b,No,,Yes,DSL,No,Yes,No,No,Yes,No,No,No
+511,abb26faa622d86011a17fbf0c4dc89d23221beea6df3ad38c737adc76fba8b0c,Yes,Yes,Yes,DSL,No,Yes,No,No,No,No,No,Yes
+512,4a8c751402db3819417e794b5660efcac42e1261e45e8a2b66057546a34ca413,Yes,Yes,Yes,Fiber Optic,Yes,No,Yes,No,No,No,No,Yes
+513,0502d8de07e3107854cda3a005b780468d9d89041f5ab5d08d4fb2bd811c57c9,Yes,No,Yes,DSL,Yes,No,Yes,No,No,Yes,Yes,No
+514,f8ec4020511c2cad999142bf5f738ddf2b8f6cca520e0668f11ed4f48bc3f83a,No,,Yes,Cable,Yes,Yes,No,No,Yes,Yes,Yes,No
+515,8969e21c361b1a2a0b2f45d1687755e7b0bf06e14289f7ab71f103c63b8a314f,Yes,Yes,Yes,Cable,No,No,No,Yes,Yes,Yes,Yes,Yes
+516,3b55644f55cac8d44cd3a81a511844232681254ae63df2aa02874bfd2cb2438c,No,,Yes,DSL,No,No,No,No,Yes,Yes,Yes,No
+517,4abe6a3ebd6439cf3d23b491b2489a1a35a3967baacf497a3c1272837a1ced8c,No,,Yes,DSL,No,No,No,No,No,Yes,Yes,No
+518,6e3fa32ad827a19e67ddd9ac08a8640ece4bd49a0879e68cb22cb2de6b6a9788,No,,Yes,Cable,No,No,No,No,Yes,Yes,Yes,No
+519,11e91f90fb4bba7dc4b94f9d1fadd66ee4acbb1852f7c062516b67240c1f8a7f,Yes,Yes,Yes,Fiber Optic,Yes,No,No,No,No,Yes,Yes,Yes
+520,771fb1dd7e8d0564643c37b8b24652d906768a9a5ef27fa51483e3bd66f772e0,Yes,No,Yes,DSL,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+521,30f8f8f67f1fd493d5463bf8c48e3527ddba9ea35783221357a0732de91f6498,Yes,No,Yes,Fiber Optic,No,No,No,No,Yes,No,No,No
+522,c45064a860d3629c3691773e13fe84e4087779455f37dd3d8169a89f80e19120,No,,Yes,Cable,No,No,Yes,Yes,Yes,Yes,No,Yes
+523,7f4d0ea36e99433bb9abf4b399a308c238c9e9ee401003aefd0eeef5759216a7,Yes,No,Yes,Cable,No,No,Yes,Yes,Yes,No,No,Yes
+524,8b3e069341f0bba0bf3433c19b7431054564af970f255d5dc790caa113648493,No,,Yes,Cable,No,No,No,No,No,No,No,No
+525,aa7effd07db2818ae2042419aaf77ed2a61ec297e7748c8a5a4fe61a674cb46e,Yes,Yes,Yes,DSL,No,No,No,Yes,Yes,Yes,Yes,Yes
+526,e4982a133d652addd88568a1e2cdb0e30d660ee1a892245d2d59b09154e32d81,No,,Yes,DSL,Yes,No,No,Yes,Yes,No,No,Yes
+527,5379fdec5c59de134fe11cef983bf61a3c36347c00172a5025fa78479c977681,Yes,Yes,Yes,Cable,Yes,Yes,No,Yes,No,No,No,Yes
+528,0ffa3f3c7e9c8f72641184e2fae2158f1e425bf34e218eff626b48fb71681a3c,Yes,No,Yes,Cable,Yes,Yes,No,Yes,No,Yes,Yes,Yes
+529,8d82d321021677601bcb2381b7d911fc0294f2f12f0df1396338bcf5e46b582d,Yes,No,Yes,Fiber Optic,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+530,04a7294b8dd062e3433d5d06909d4744d74fc76481bf62e3ef444927ffbe2ea3,No,,Yes,Cable,Yes,Yes,No,Yes,No,No,No,Yes
+531,3c18efdfc6a568b3c96a4860e6e9832e2352cc040ba4c9a01a4b1b1f52c44a41,Yes,Yes,Yes,Fiber Optic,Yes,Yes,Yes,No,Yes,Yes,No,No
+532,5c8b82b66be49f2abf1bd30266e6de43f1134f18d8a90980c5203b19ecffbeac,Yes,Yes,Yes,DSL,Yes,Yes,Yes,No,Yes,No,No,Yes
+533,58adac9f9b9da9836feb2b6ce994866ce5ad4d1bfa7c87b54319188c77b45550,Yes,Yes,Yes,Cable,Yes,No,No,Yes,No,No,No,No
+534,68457bbb963f3b460d7966f4fc30c7aaadb483b71f4ad6eaba449cb56460fbd0,No,,Yes,DSL,Yes,Yes,No,No,Yes,Yes,Yes,Yes
+535,fa7c9b9688dfddefbc4cd108e822f4b76fdc85efa86a4573a49586a175e4db6f,Yes,Yes,Yes,Fiber Optic,No,No,No,No,No,Yes,No,No
+536,ffc163b16464c472eeff7186f0551eed309a135a986b5f8641105e79db1889aa,Yes,No,Yes,DSL,Yes,Yes,No,Yes,No,No,No,No
+537,6eb7223fc7f0996db76cf2b1698605fdf04719ac6ff79df7b5465137d601f0bd,No,,Yes,DSL,Yes,No,Yes,No,No,No,No,No
+538,0a7a373e1139443934dbcba9442c01e0d6e5ef7cc9b316dd98f861f5c1555d2a,Yes,No,Yes,Fiber Optic,No,No,No,No,No,Yes,No,No
+539,3b5b6a8957f3833835017ae970c42dfe3f3bdca2e086db82376072a575fc5822,Yes,No,Yes,Fiber Optic,No,Yes,Yes,No,Yes,Yes,No,No
+540,3b805f024a3ea413df506de398887b1e16fa68df50328f5c4662cc065b418960,Yes,Yes,Yes,DSL,No,Yes,Yes,Yes,No,Yes,Yes,Yes
+541,0763b2eb64c67950a84e504a52e001d9eb51eb9c043dad43cedcb102e1f4bf07,Yes,No,Yes,Fiber Optic,Yes,No,No,Yes,No,Yes,Yes,Yes
+542,a57ec79efca70afe41c9ae767c2495201287bd18cb0887dad8822ceb96f30d2f,No,,Yes,Cable,No,Yes,Yes,No,No,Yes,No,Yes
+543,f6fde4a3580505a86f809083a6d04c75ce65e71de8ac3fac779577b170279d37,Yes,Yes,Yes,Fiber Optic,No,No,Yes,Yes,No,No,No,No
+544,8a1a897dcdd82eb711f8e25647a5426a5b49f6b16bec67df5506aa51d0be2682,No,,Yes,DSL,Yes,No,No,No,No,Yes,No,Yes
+545,d8f9dbd90b5ac1a30509371b97d57707e6ceb6cf0ab17bc568286b8f16e4915c,Yes,No,Yes,Fiber Optic,No,Yes,Yes,No,No,No,No,No
+546,585ccb55c35a4d4ce5c16004cec118790e10699542ce5c080d59d62d40bc1b2d,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,Yes,No,Yes,Yes,Yes
+547,ff465cc1bc3d777f803dc1d762f8fb136691dd426d633d8433b5627a881e8f28,Yes,No,Yes,Fiber Optic,No,Yes,Yes,No,No,Yes,No,Yes
+548,738c17e8696566740c9d1342f1b67d7ba06c4ff86d927b8e3114ed89f7159751,No,,Yes,Cable,Yes,No,No,Yes,Yes,Yes,Yes,Yes
+549,f37060a0e4ac81b36a93fcb5b57a1fb7a3ec3a5fa8d90208a0e09e0a2b47599b,Yes,Yes,Yes,Cable,Yes,No,Yes,No,Yes,No,Yes,Yes
+550,363a9a1a4276a01e619f46265f5126b2c69971b25ac80e2933c93100d5633b29,Yes,No,Yes,Cable,No,No,No,No,No,No,Yes,No
+551,a9b71b48822c0bc261a399f561adcc64dc2a705f01bc3c3a7b065a86a22b9dd1,Yes,No,Yes,DSL,No,No,Yes,Yes,Yes,Yes,No,Yes
+552,b1f4668b5046da298bf306306fac5eb8db365862468900bc138817069025a802,Yes,No,Yes,Cable,No,No,No,Yes,No,Yes,Yes,Yes
+553,e573fabc3b71c2144ed4dba513b32518cbbe446489e80dae73644169541c0a09,Yes,Yes,Yes,Cable,No,No,Yes,No,Yes,No,No,Yes
+554,98301a733756402e11929475c945993c7652fac892cc063b81149f60dd779b38,Yes,Yes,Yes,Fiber Optic,No,No,Yes,Yes,No,No,No,Yes
+555,bcbf76f6d731536386b5cd3af973e312037c2e691394fec3908f3225df271a06,Yes,Yes,Yes,Fiber Optic,Yes,Yes,Yes,No,No,Yes,No,Yes
+556,9e8b984f107445b1130fe89236daa55d90df01c669b47905d9251769cb1b5390,Yes,Yes,Yes,Fiber Optic,No,Yes,No,Yes,Yes,Yes,No,No
+557,5231847db976a071a360946b14db7591abfe7b03ae52c4a7776f62adaaf01234,No,,Yes,Cable,No,No,No,No,Yes,No,No,Yes
+558,57ef361de4134352c8ded9f9aeec86c9f6420b975909c5a2023529aa493abcea,No,,Yes,Cable,Yes,No,Yes,No,Yes,Yes,Yes,No
+559,6206774172fe1fb2575fecf81e148453af92ef8b737a4850c6a389824f2ed0ae,Yes,Yes,Yes,Fiber Optic,Yes,Yes,No,No,No,No,Yes,Yes
+560,c7053283a45938799a9bf9bb4f534f9900e997b87bdccaab7e95bc93a4f3b37e,Yes,No,Yes,Fiber Optic,Yes,No,No,No,No,Yes,No,Yes
+561,da3ce27921e8f685eb763ed54395d2a5bbe964bfeb19d85c50058059f701b358,Yes,Yes,Yes,Fiber Optic,No,Yes,No,No,Yes,Yes,Yes,No
+562,ca00b8919d11c41aab1002fb150ea5a75f7e32940a8141771b82f53ad7b0e78a,Yes,Yes,Yes,Cable,Yes,No,Yes,Yes,No,No,No,No
+563,b894d8a6ac9325e5721a93fa9730a710707ad0240ac8e5a2b21a2be1298191d8,Yes,Yes,Yes,Fiber Optic,Yes,Yes,Yes,Yes,No,No,No,No
+564,f7ff1d141def7ca8756814b3f30bc2f72ecfc0254c1983806a5ecb7505f08119,Yes,Yes,Yes,DSL,Yes,No,Yes,No,Yes,Yes,Yes,Yes
+565,445493025653164271ad0489ac8006f621674f09d429f030f5a105283740fe7f,Yes,Yes,Yes,Fiber Optic,No,No,No,Yes,No,No,Yes,Yes
+566,ae7bde2e903f3ed8963eb92651f1e727b5ca8efcf2184e2345ffee402458027e,Yes,No,Yes,Fiber Optic,No,No,Yes,No,No,Yes,Yes,No
+567,7548edfd1ad5487199c637a1413df8a6a25868bfb29d46b4f3549409d5d43ad1,Yes,Yes,Yes,DSL,Yes,No,Yes,No,Yes,Yes,Yes,No
+568,57b7e423a55ea4e273140e0d95996d9e5dae7e2eccb608d417cd5da44337d5f9,Yes,Yes,Yes,Cable,Yes,No,Yes,No,Yes,No,No,Yes
+569,d197a7602efe0fc06378b744e20cb7416941d3de7b05acc59ce5ee19dbb8e533,Yes,No,Yes,Cable,No,No,Yes,No,Yes,Yes,Yes,No
+570,053a150736588e43b890bdcc9327bda3377045b810efc57d2e0104d06a5b1e61,No,,Yes,DSL,No,No,No,Yes,No,Yes,Yes,Yes
+571,fdca26b48cd25a60a8e8a7a6fe0e7f93e703972b4ca64538f049bae88a1eacda,Yes,No,Yes,DSL,Yes,Yes,No,Yes,Yes,No,No,No
+572,e0ddd5e60e05dd7a6e92d0974277fc42630e8886b5a3efe4bf2a81063805eed3,Yes,No,Yes,Cable,Yes,Yes,No,No,Yes,Yes,Yes,Yes
+573,9ddb69d211d264d60e745ebfbdf357923d5fa6228ab546e276bbaeee7415ca3e,Yes,No,Yes,DSL,No,No,No,Yes,No,Yes,Yes,Yes
+574,96a6e7379f24590a341950a8c2c533176e63b24e8418e4e1292d8de30834e850,Yes,No,Yes,DSL,No,No,Yes,No,No,Yes,Yes,Yes
+575,738374aba8b05eb00329153381d0a55a49a22215a38f5f46bd15e9a4aedafc87,Yes,Yes,Yes,Fiber Optic,No,No,Yes,No,Yes,No,No,No
+576,79e12fcce758318a2b262a9a8ce453f0c13f7078f20dcd8e6b4198626a6584b2,Yes,Yes,Yes,DSL,Yes,No,Yes,Yes,Yes,No,No,Yes
+577,3494cfce656d89c8daeac57f7964b3bd89697cd37897709855e1d334f0cb8e04,Yes,Yes,Yes,Cable,No,Yes,Yes,No,No,No,No,Yes
+578,d651d36c507d4ff03eba8b25b3a67df270d7e0680c6ba56bfa3abd0c22eba750,Yes,Yes,Yes,Fiber Optic,Yes,No,No,Yes,Yes,Yes,No,Yes
+579,32824c901ffd6aaadd4576f7f0d4f287242e3da8514f18d9837c0d2e9619714a,Yes,Yes,Yes,Fiber Optic,Yes,Yes,Yes,No,No,Yes,Yes,No
+580,7afa824fc77fee43f5e272842037c7c0d98a81477ae2030518b99a17ef56b71e,Yes,No,Yes,DSL,No,Yes,No,No,No,No,No,No
+581,c713f35776fd3996d707a61514d39a3433651bb7a9741908a43a4d51b6375731,Yes,No,Yes,Fiber Optic,No,Yes,Yes,No,Yes,No,Yes,Yes
+582,b44c97c8b4118c9f544d5b64d9e329c31034b268715cf4c32aeb826abd2d219d,Yes,Yes,Yes,Cable,Yes,Yes,Yes,No,Yes,Yes,No,Yes
+583,042a6e7002114e671d338ad61f9961e65c22e07d4359e542dedbad7f21fa6544,Yes,Yes,Yes,DSL,No,No,No,No,No,No,Yes,No
+584,a4f86bf63eb28de3a0040f9ec74f6a13135a7b08fd1216ac441e144d0218efe0,No,,Yes,Cable,No,No,No,No,Yes,Yes,Yes,Yes
+585,2154cbc9ebbf538ad84b1ede2542ca0ab9d91d6b285e3469413b028758e7609e,Yes,Yes,Yes,Fiber Optic,Yes,Yes,No,Yes,No,Yes,Yes,Yes
+586,1ba7c075b695d0e3bc153f55d773e060a3daf7c5b3c03287eab8b62ee5bea660,Yes,No,Yes,DSL,Yes,Yes,No,No,No,Yes,Yes,Yes
+587,29a0be52145b7b006c41f7695b8a56780a6d0307219ec71880f445ed3b4d05ad,Yes,No,Yes,Fiber Optic,Yes,No,Yes,No,No,Yes,Yes,Yes
+588,9eb03770334c04dbfe4b84cd5bd4c2ecd0c6b43c5a4b09384eada236228bccbd,No,,Yes,DSL,Yes,Yes,No,No,No,Yes,Yes,Yes
+589,da3c3c1befb70bf587d4b9b6e76a8c7ff8b825c5bc1365435bab2b01023b6f94,Yes,No,Yes,DSL,Yes,Yes,Yes,Yes,No,No,No,Yes
+590,5135761cc1ab839df81fac8ac7f9edd8ef3f84d6cc1c6ea40321d143bb19d3db,Yes,No,Yes,DSL,No,No,Yes,No,Yes,Yes,Yes,No
+591,19dae44e1b0beeee6dfa6a171856eb69a8e9216c089c123d86a0edce6d8db515,Yes,No,Yes,Cable,No,No,No,No,No,No,No,No
+592,939e5c7d673d3251c1ad1ee68116ad7dc6b8abf03cc8b54747200910f151195b,Yes,No,Yes,DSL,Yes,Yes,No,No,No,Yes,No,Yes
+593,9d137abebb59948c70ccacad4aabfcee27f90d20e29b48f55671e309aaec2dd3,No,,Yes,DSL,No,Yes,Yes,Yes,No,Yes,Yes,No
+594,f4aade4245167aeb861971a514b756335e32f532d68a934ba2d4ca0015bbf743,Yes,No,Yes,Fiber Optic,No,Yes,No,Yes,Yes,No,Yes,Yes
+595,435e263f678f08ecc4c8a07855ed828b0babb5e07e2726f92956d0a989c00b98,Yes,No,Yes,Fiber Optic,Yes,Yes,No,Yes,Yes,Yes,No,No
+596,a387be3df915bef3db3fe94c948a58761b73a51db68b0f324593c8a583c13a9f,Yes,No,Yes,Fiber Optic,No,No,Yes,No,Yes,Yes,No,Yes
+597,abd62d2299a62458f5e474597438276eb5013e06a72091150f8ac1dc7e29c6dc,Yes,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes
+598,6d93bff09bbd61c7c8d9132197600c3ff0078a3b5305f13583421a6dc6b4a140,Yes,No,Yes,Cable,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes
+599,5c05ebf9a21ea81ef4a077addbb55adb7934d3f329ffd3af7a38c20800e9db04,Yes,No,Yes,DSL,No,No,No,Yes,Yes,Yes,Yes,Yes
+600,528637eb38ebffe884b4baa62eaf7396c37de9e25d5c7010fd9cd6c77e8c02e0,No,,Yes,DSL,No,No,No,Yes,No,No,No,No
+601,b2eed485846dd801509631ef32732c3fb1cd3bc8539dd815179bc07855d7a063,Yes,Yes,Yes,Fiber Optic,Yes,Yes,No,Yes,Yes,Yes,No,Yes
+602,b9409ae3e2009c5e05c4fd5e0db80d72be3b95a5e0ee68f7db1e8c5209376f8d,No,,Yes,Cable,No,Yes,Yes,No,No,Yes,Yes,Yes
+603,ed3a5903f15fa19d852c33ef3df4392b88be5e3628683fb89e888c18708c3901,Yes,Yes,Yes,Fiber Optic,No,Yes,No,No,No,No,Yes,Yes
+604,fa4e24a1de7a7d1c43da7adcdefd21d93d0e1f4ecf02bf5c411b512cf045a52e,Yes,Yes,Yes,DSL,No,Yes,Yes,No,Yes,Yes,No,Yes
+605,c9775c9ee654c5b6fab692fb38877dec510ed86a29190f8c7d31877dc7b2855a,Yes,Yes,Yes,DSL,Yes,Yes,Yes,No,Yes,Yes,Yes,No
+606,6b6044675658474fa47b860ad3939e84676e91ecd5fa50fb72a4b477279a2f00,Yes,Yes,Yes,Fiber Optic,No,No,No,No,Yes,Yes,No,No
+607,07496d253cc884097964b766f3cf54d5b9cd06a0abbac1faf16d74014619bc7b,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,Yes,Yes,Yes,No,No
+608,fab8f99be08a6824b95c7cafc74083dd6ceab088c507b9756540ff4101ace2a2,Yes,Yes,Yes,Cable,Yes,No,No,No,No,Yes,Yes,Yes
+609,bcf05457eef6fa41e5ba23c3bd3fd084a24196df33fde3c159be13b701c07e57,No,,Yes,Cable,Yes,No,Yes,Yes,Yes,Yes,No,Yes
+610,a365561d5f1499ff6a9e5d21cbaea4c3c057f9a01ec71e00049b13f1157d053f,Yes,Yes,Yes,Fiber Optic,No,No,Yes,Yes,Yes,No,No,Yes
+611,1ae8276b4dc78ed1d70cfaeb21d755b75f4f074e2d60baad81152eeedd642939,Yes,No,Yes,DSL,No,Yes,No,No,No,Yes,Yes,Yes
+612,54757e9b36794c434bb8bbdf4d701d596e2152c6dd40b9444018822814ee8c5c,Yes,No,Yes,DSL,No,Yes,Yes,Yes,Yes,Yes,Yes,No
+613,266e8f98b25fca6cc1b3c2ec8609a8538a5c15f3124e81f920ab4e2dafd987a3,Yes,Yes,Yes,Cable,No,No,Yes,No,No,No,No,Yes
+614,f5e2b74bf40aa2d58839f6e9556b05828ae4fda6f294671d725a9dcbfc8c5984,Yes,Yes,Yes,Fiber Optic,Yes,No,Yes,No,Yes,Yes,No,Yes
+615,6a3d59ce31648bb1a23926bdc5c8ebf92ab59618aa7a839b3339450843f394a3,Yes,No,Yes,DSL,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+616,1e9348f1aa72064b826fb21939269146781477d902f8c8e34e852c5356f9d104,No,,Yes,DSL,Yes,No,Yes,Yes,Yes,Yes,Yes,No
+617,8fb98888731ac06898d68cb0eb58debbde6dd21dd597789db04aed7bf0e2aa8a,No,,Yes,DSL,No,Yes,Yes,No,No,Yes,No,Yes
+618,6735126526f1894f2823c898e5ed0c1b7dd802aad7a1c3cdbe92ef7479b539c5,Yes,No,Yes,Cable,No,Yes,Yes,Yes,No,Yes,Yes,Yes
+619,5b46f25c4262ad226db3ccf8df60dd7067275bf26d1f5daf744e0ef0ab783911,Yes,Yes,Yes,Cable,Yes,Yes,No,No,Yes,No,No,Yes
+620,9dcc0c61cb680f4c953d61b2899d9a0dd9aac2a75c03c858ae967c0137d5c527,Yes,Yes,Yes,Cable,Yes,Yes,No,Yes,Yes,No,No,Yes
+621,5805fa8c44d899fe6fa10f2ee533dc144ae37880afd1b7e258386181d65aa9e9,No,,Yes,Cable,Yes,Yes,No,No,No,No,No,Yes
+622,7db8b3c6514652bb02635f8abae97b22569a929dfbb1845b9f82c6f803f1caf2,No,,Yes,DSL,No,Yes,Yes,Yes,Yes,Yes,Yes,No
+623,8c242df797ffc4e3da6424de1f6a7d511e227568c8e004639baa3fcf539427ed,Yes,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+624,d668439720efb392de4589a843e6492a1dc194048554be69affd0c5bbafae608,Yes,Yes,Yes,Cable,No,Yes,No,Yes,No,Yes,Yes,Yes
+625,594a527e34c76fd0ac2aba2b843d9bf520fcb9b385ad042df32240ef4c57e340,Yes,No,Yes,Fiber Optic,Yes,No,Yes,Yes,No,Yes,No,No
+626,c5196fb4b7fd4bdaaea3c09c1e6ab61637b48a3320a2f137e8772bca057346cf,No,,Yes,Cable,No,Yes,Yes,No,Yes,Yes,Yes,No
+627,d820a36068c8803558123236d21e3ba29e609fd9aabcc820f0d75a980edf3e0d,Yes,No,Yes,Fiber Optic,Yes,No,No,No,Yes,No,Yes,No
+628,82e64c52cb389fe158e749982916e66d93af1edfd304fd953506e3214f9facdf,No,,Yes,DSL,No,Yes,Yes,Yes,No,Yes,Yes,Yes
+629,5ba417cac385fe4f4abaf252e2277315d2fd16b20ab3512d309de90461084904,Yes,Yes,Yes,Cable,Yes,No,Yes,Yes,Yes,Yes,Yes,No
+630,fdd444dcca4125867449ff6b8cdeb61af2dbd57eed4aa85d663b519df43c155b,Yes,Yes,Yes,Cable,Yes,Yes,No,No,No,No,No,Yes
+631,c72fde5790081ba62981330ca596e86b10d6c3194336dd1e01c307e7668e66ba,Yes,Yes,Yes,Cable,No,Yes,Yes,No,Yes,Yes,No,No
+632,27ff4a7418523618578628c1359410f5c7ad809a568928472f330b02e92938b3,Yes,No,Yes,DSL,No,No,Yes,Yes,No,Yes,Yes,No
+633,0859bcedac25de962c8c7bf4c0f086927412419cf885b731d61f053579b7fec1,Yes,Yes,Yes,Cable,No,No,No,No,Yes,Yes,No,Yes
+634,1eea119fdb8eaf5f559e580c4b654de2f45b732ffb803b02680d30d52162c191,Yes,No,Yes,DSL,Yes,Yes,No,No,No,No,Yes,Yes
+635,0b0a95d7cf98cbe7eced60febf0af0c4c4c233db4d681c0e6cad0d4aa49ba82d,No,,Yes,DSL,No,Yes,No,No,No,Yes,Yes,No
+636,e9e5bee47d3959a3d5114ae313924a66d4f519000195891e17daf5101e7d15f4,Yes,Yes,Yes,DSL,No,No,No,No,No,Yes,Yes,No
+637,7a8426b2a3ac72413e2ddfbe4af1a4e166d167a4aa49df9225e36fc3fc7eba01,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,No,Yes,Yes,No,No
+638,d8dca35540c155b0c2bc113c1c52bab7d532aa4bcf65642498da545462dd1900,No,,Yes,DSL,Yes,No,No,No,Yes,No,No,Yes
+639,b027082b67186bd19194a9ef4e05e9a07d1c33f7e79cd9aead2a6509f1ab2fb8,Yes,No,Yes,DSL,No,No,No,Yes,No,No,No,No
+640,5d118362c2ca1499ab15c61c211a9c4a8a0a4e124d2c11e85fcbcaa9844b1859,Yes,Yes,Yes,Cable,No,Yes,No,No,No,No,No,No
+641,f516ae49541962384b602815b7059b553ad077877584a2be1b1f4c29a93cb66d,Yes,Yes,Yes,Fiber Optic,Yes,No,No,Yes,Yes,No,No,Yes
+642,f40e1c353beb4e3e184fa303e0968bf0588f2c42055a11853553a6ae68163c2f,Yes,Yes,Yes,Fiber Optic,Yes,Yes,No,No,Yes,Yes,Yes,No
+643,5feea4a4ca66a80d3539429860d45a5cc9b73681064f8bdfd9f2794df06a73cf,Yes,Yes,Yes,Cable,No,No,Yes,No,Yes,Yes,No,No
+644,bd80eb82fa31d79cfe95d549a2bc6ff8cdc1486b5170b4ef3e601d6315628035,Yes,Yes,Yes,Cable,No,Yes,No,Yes,No,Yes,Yes,No
+645,b59b2e7eadcdcc876d629e9744b13e509b2efa1df48ac15f9427572c207ed893,No,,Yes,DSL,Yes,Yes,No,Yes,No,Yes,Yes,Yes
+646,19db19f82dff314494dbe99b17e0ba1bdf86f9bdb9be8060b7cc714481540cbd,Yes,Yes,Yes,Fiber Optic,No,Yes,No,Yes,No,No,Yes,No
+647,4ade22e774c1d2f96d45b97ca9e4b9e1a0e55bb619356a580e217a87e62b2ed7,No,,Yes,Cable,No,No,No,No,No,Yes,Yes,No
+648,e197dee40cf8dc4c92aaf42bbf7d514f0e4faa8d66f0f8fb390626507d5152de,Yes,No,Yes,DSL,No,No,No,No,No,Yes,Yes,Yes
+649,08c07620b633597631d102dccabdfd30bf97e065199aa6078da644a7dd49bf49,Yes,Yes,Yes,Cable,No,No,No,No,Yes,Yes,Yes,No
+650,49c1ebae0d53986393988f9acab479ac86615c0c9c1f33419d66698d8096cdea,Yes,Yes,Yes,Cable,No,No,No,No,Yes,No,No,Yes
+651,0a8088ad102a269c156073409952d84eff238e2b010afc99132b25a8851c13e7,No,,Yes,DSL,Yes,Yes,No,Yes,No,No,Yes,No
+652,c6bf0fa343d2079b57bf55cd1772e30c61a538d80d6da8c301cf4a8d259cf346,No,,Yes,DSL,No,No,Yes,No,No,Yes,Yes,Yes
+653,bf403da7f7293259b2b63009ea6c622fb016a5d3c6781689f93ac632e8a035ef,Yes,Yes,Yes,Cable,Yes,No,Yes,Yes,No,Yes,Yes,Yes
+654,e54d37a25598ce8d6e46dd1d4c0222555987c63d125147d318169af245b9f4b0,Yes,Yes,Yes,Fiber Optic,Yes,Yes,No,Yes,Yes,No,No,Yes
+655,dd4c9018a0f119196f1ee47bc3326f9e23c05129a3b08680108c52e768a4bafe,Yes,Yes,Yes,DSL,Yes,Yes,No,No,No,Yes,Yes,No
+656,d47cb3990667367d5ce75744eaba22ef33907f82bb2aa1b1d21724c7da2744d7,No,,Yes,DSL,No,Yes,Yes,No,No,Yes,Yes,Yes
+657,0a75eb22151b70a58e33381535e68a77691b287f7947d239c11a2d6da48777d3,Yes,No,Yes,DSL,Yes,Yes,No,No,Yes,No,No,No
+658,6f21f7b46441573f90cc37423aae67e3f4f6918b4a5d578109f4c95fd269a5c1,Yes,Yes,Yes,Cable,No,Yes,Yes,No,Yes,Yes,Yes,Yes
+659,2ff431584b47a2b3b34284ced3542b0a35f162661756f2f565ee71636e6c53b8,Yes,No,Yes,Cable,Yes,No,No,Yes,No,Yes,Yes,Yes
+660,afdeeaf65e14f7773d2cd5b077853a1c05a48e1bf437170008690750c56d95ca,No,,Yes,DSL,Yes,Yes,Yes,No,No,Yes,No,Yes
+661,783253f3c30b12cb71ec9e9e7900634999746f392b3f7b0537685ac7a682755e,Yes,No,Yes,Fiber Optic,Yes,Yes,Yes,No,Yes,No,No,Yes
+662,a79118cee50fd9cba78e123956c9dc31f9187904776bf852ebe05960860cd613,Yes,Yes,Yes,DSL,No,Yes,Yes,Yes,Yes,No,No,Yes
+663,3267df4b2eb1ffea218626f0ac954c44f50f241e9dbed6c0cd5b3f83aa951b55,Yes,Yes,Yes,DSL,No,No,Yes,No,Yes,Yes,No,Yes
+664,423ea0cfb95ec0d434e318f6de095148bcd6bd7a5c99fd72b80c24e1def37ad8,Yes,Yes,Yes,Fiber Optic,Yes,Yes,No,No,No,Yes,Yes,No
+665,545468e4c126f48a1c000732e4095e52cf63f74cb77de4dcc68e9d770a6e9d6d,Yes,Yes,Yes,Cable,Yes,No,Yes,No,Yes,Yes,Yes,No
+666,5d9e464179c65b64456b5dd5e3fd212bbe83f0f93b02ce0bf0b1faa3b3ec2bc9,Yes,Yes,Yes,Cable,Yes,Yes,Yes,No,No,No,No,Yes
+667,074ce752ff3e4177eb1d7f286a0f3db1f3c4ced59a4ab9b88c6cc7ec7d47143b,No,,Yes,DSL,No,Yes,Yes,No,No,No,No,No
+668,c2d0e028fb449e1274d61ed8c5371c7dd6dc84ad408d5fe24551ab87f1dd62db,Yes,No,Yes,Fiber Optic,Yes,No,No,No,No,No,Yes,Yes
+669,372cdd1c792657c72d66bf4cc4c6133e943f42e1a1122588e85e11be4c21345a,No,,Yes,DSL,Yes,No,No,No,No,Yes,Yes,Yes
+670,8705b05b10d79f21c4827b710308ec0cc161eecc4a1e8d3a6b92dce466b8a6ab,Yes,No,Yes,Fiber Optic,No,Yes,No,No,No,Yes,Yes,No
+671,94f15ab3d97d56f2589f2290da2cfe828db45de5fb9f1c4f8ab8a1d5570808d1,Yes,No,Yes,Fiber Optic,No,Yes,No,Yes,No,Yes,No,Yes
+672,30ada1e54f5f70f050421cf194cc66bb22722973db0fd52ba3cae1e0d010b026,Yes,No,Yes,DSL,No,Yes,No,Yes,No,Yes,Yes,Yes
+673,fac3ba6924d72ed454710da6d63566318e641c797e7b9919e5c0b2600d0ff005,Yes,No,Yes,Fiber Optic,No,Yes,Yes,No,No,Yes,Yes,No
+674,d8fc3f6651b8b475a85ca9832b233fc41335817c5e73dfa365493899cdc53f22,Yes,No,Yes,Fiber Optic,No,Yes,No,Yes,No,No,No,No
+675,12332250fd19aa4cac922171903a8e7dc403037d3b7a3ebaf220f22172d5995b,Yes,No,Yes,Fiber Optic,Yes,No,No,Yes,Yes,No,No,Yes
+676,54c4155193da922476aa149f2f3dc2f1897438b24f10a83ff80607c261337646,Yes,Yes,Yes,DSL,No,Yes,No,Yes,No,Yes,Yes,No
+677,7cebdc255c9632bbb3fe52c68de10872b75c7afa1f3ead7adf28f5962dec06a0,Yes,No,Yes,Fiber Optic,No,Yes,No,No,Yes,Yes,No,Yes
+678,a7506cf14de641f6c7eea7d968ef2c10899008b7f1184aa8dec035ab6062fbbf,Yes,Yes,Yes,Cable,Yes,No,No,Yes,Yes,Yes,Yes,Yes
+679,3cd51564c2f29eca68f1d3ba26d8f47f0a461e54fcd9a2493e963a61193a7245,Yes,Yes,Yes,DSL,Yes,Yes,Yes,Yes,No,Yes,Yes,No
+680,4ad3d626f4c92a2e96179405273476e1be808b299285433743e9774a81ffff7e,Yes,No,Yes,DSL,Yes,No,No,Yes,Yes,Yes,No,No
+681,4b6b2216b076311e4a0b4dfe4706fa2f31e62e16b4539e592164b1f10e43b4df,No,,Yes,Cable,Yes,No,Yes,Yes,No,Yes,Yes,Yes
+682,750c413647ff2e59fd931ed91f489877a032fa384bc45662fb7daf80775a4457,Yes,Yes,Yes,DSL,No,Yes,Yes,Yes,No,Yes,Yes,No
+683,0944de4c320bdf1fffa99397a3282f5329b1c64f9ff6ce9f086f486126c7a494,Yes,No,Yes,DSL,No,Yes,Yes,No,No,No,No,Yes
+684,4ca903d8937b1a5d09d03d9fac9aa4b6de0ba325cb35cfa9e789e1414bd3fd3e,Yes,No,Yes,Fiber Optic,Yes,No,Yes,Yes,No,Yes,No,Yes
+685,dd27ca0438e20d3d054667f32dac9b8d0828d0236db221caa36ed911ca1f40bf,No,,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,No,No
+686,5c4a310a2617b2ae18d77bd30e2ead56a63ab6d85e65e90aa8695f0b8d9cf3b9,Yes,No,Yes,DSL,No,Yes,No,Yes,Yes,Yes,Yes,No
+687,8791fe432e1623bf3f17a42e98dd682b983841e2c2f6520eb43f6d7d00aa075c,Yes,No,Yes,Fiber Optic,Yes,Yes,No,No,No,Yes,Yes,Yes
+688,c56f84a2ade58ac5692b08c8bb8fa399f205812136bba2fdc822ebd61afea723,Yes,Yes,Yes,DSL,Yes,No,Yes,Yes,No,No,No,No
+689,a88ec0b7c0e27104a817d7cf847be622f7f1ec2cf3f4adc1878fcca1bc34b197,Yes,Yes,Yes,Cable,Yes,Yes,No,No,No,No,Yes,Yes
+690,b0566caf05a22ce7b248cc92e50dfa25cb159642902c0d95f6a67018155743d4,Yes,No,Yes,DSL,No,Yes,No,No,No,Yes,No,Yes
+691,3bb7362370f72f156c99330789ff23433e40eb1edfdd4aa3667b5b01870272f0,No,,Yes,Cable,Yes,No,Yes,Yes,Yes,No,No,Yes
+692,8a13d1c8fbb06f0c7663678c3e9c98313f73582269ef51e91cc389e9ffbc0e22,No,,Yes,Cable,No,No,Yes,Yes,No,No,No,Yes
+693,92068958270c30cee2f71c79712237997dd77198c346d36506683f2d94081332,Yes,Yes,Yes,Fiber Optic,No,No,No,Yes,Yes,No,Yes,Yes
+694,ca3c3622c02114266354d0a01bdbd5c6058f583e7907c5c4e320ba1cd82cc48d,Yes,No,Yes,Fiber Optic,Yes,Yes,No,Yes,Yes,Yes,Yes,No
+695,0da82b0f56458f4266880b9aa6e5ab830a7f218c1e0d85efb76ff8a0b10ad6bd,Yes,Yes,Yes,Fiber Optic,Yes,No,No,Yes,Yes,No,Yes,Yes
+696,39d69916a2ecf06e460056592441a8a3852b1ec4b4569721d46801160aa6a191,Yes,No,Yes,DSL,Yes,No,No,No,No,Yes,Yes,No
+697,efc8a6ab803de0d843175176f1b21113de851074382b96b3d6cab880d147096b,Yes,Yes,Yes,Fiber Optic,No,No,No,No,Yes,No,Yes,Yes
+698,c0582dd7a8e4d6f8b98a0ad43e1e5c502be36d5523d305e9d0ee52e9b5facf7b,Yes,Yes,Yes,DSL,Yes,No,No,Yes,No,Yes,Yes,No
+699,52fe3bf5b71562481c1970f68b7f6a6808e5c8609ed0c9d101ad09175da43a88,Yes,No,Yes,Cable,Yes,Yes,No,No,Yes,No,No,No
+700,cc00c68117af27dbcbcb7e54ddb572dcadaf5074f7b794f34c268f1336ad16dc,Yes,No,Yes,Cable,No,Yes,Yes,Yes,Yes,No,No,Yes
+701,9ebb30998a603a711fbb4929918818ea2ed662c13584f181d8f0fed2444446e2,Yes,No,Yes,Fiber Optic,No,No,Yes,No,No,No,Yes,Yes
+702,c156eadf958386f5ea717ffc7b7f082abf332043bc985899794d9db984fabb5f,No,,Yes,Cable,Yes,Yes,Yes,No,No,Yes,Yes,Yes
+703,f82e98cebc70a9debf28920b5ef8d77e6280e595af46ac21a3a58319d8fde6e0,No,,Yes,Cable,Yes,No,No,No,No,No,No,No
+704,fa53551a2d50f0c9e3d5e5d5f7633d8e06e99309a7927db775edad8030fafeb2,No,,Yes,DSL,No,Yes,No,No,Yes,No,Yes,No
+705,40ec3885a200152a0db3ad16ef77950de21b5551ab389a5624923ad639b23e9e,Yes,Yes,Yes,DSL,Yes,No,Yes,No,Yes,No,No,Yes
+706,378061a235b175ed5c7cca96745f003eb8438a6b820bfde9472855eeb73c5fc0,Yes,No,Yes,Fiber Optic,Yes,Yes,Yes,No,No,Yes,No,Yes
+707,badda0de3aa68f3b31c6306c45a153c7d64b91bf4cb7ebd870c743ef9c5cccbb,Yes,Yes,Yes,Cable,No,No,No,No,No,Yes,Yes,Yes
+708,7c7dbf17e350fd8087447630cb78dca3c5da4610f7c7a17a1dacec1cea10101b,Yes,No,Yes,Cable,Yes,Yes,Yes,Yes,No,Yes,No,Yes
+709,2fb8f79a45a778fb321894ff48873481c1b797c75067d66a69fb7b559d283604,Yes,No,Yes,Fiber Optic,Yes,No,Yes,Yes,No,No,No,No
+710,d1508718676854fc261bc62adc4532a0dd21b58dca74365d8c32385c2ba7c1c1,Yes,Yes,Yes,DSL,Yes,No,No,No,Yes,Yes,Yes,Yes
+711,253cf023a28c428a0ade7123cfb42bf968fce172fb5a923727ec9e3450cabe5d,Yes,Yes,Yes,Cable,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+712,0cedca0d0779f5dacc2b244f8a7a60c3f7c80bada3584bc6aa898f53c1631fd0,Yes,No,Yes,DSL,No,No,Yes,Yes,No,No,No,No
+713,8cba9b9c7fc336d595e2fd72d468cfc6d77699fa35b055507e84734f4023afb6,Yes,No,Yes,Cable,No,No,No,No,No,Yes,No,Yes
+714,3cf0b17696e58e933a7c0b9b5e344621f0c1c485fd84dbac8ad008a60e411920,Yes,Yes,Yes,DSL,Yes,Yes,No,No,Yes,No,No,No
+715,e1429d31534b52ff3cbff22787a24f527601984ea6d90383a6240d6e03892ba9,Yes,Yes,Yes,Cable,No,No,No,No,No,Yes,No,Yes
+716,d354d0907b7f2d8baf0ba28eab096320b2ebefcb5a91b67975933525d55001b9,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,Yes,No
+717,f63da72171fb3fb24ab99497730dbd2b5df297e0f42b7b18f614723ce90daecb,Yes,No,Yes,Cable,Yes,Yes,Yes,Yes,No,No,No,Yes
+718,b1936504344bbc8690eed5b0f998efc5f9ffdaa6d1056213d8870370aba69144,No,,Yes,DSL,No,Yes,Yes,Yes,Yes,Yes,No,No
+719,913d41dfb4691faa97164b653e8adff3cab4069b1f71031fac2f1649d628939b,Yes,No,Yes,DSL,Yes,Yes,No,No,Yes,No,No,Yes
+720,78b8b74a631fd6ebd3db3024082e182be8fa0d315b45bbacfadd4b1df6a989c3,Yes,Yes,Yes,Fiber Optic,No,No,No,Yes,No,Yes,Yes,No
+721,d5fb871968102688ed3ee3d7fb8f397874f1c60620f5903ab71082e345e62299,Yes,Yes,Yes,DSL,Yes,No,Yes,Yes,No,Yes,No,Yes
+722,c987f64d9c36c2a27cf3e49f6ff02f24f6557aad246918bb8a708eb3cd5902a0,No,,Yes,Cable,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+723,5b926ba9aa9348eff1bb3c7a8404e5def9dceef909e4f34fabe3d7bfe828add0,No,,Yes,Cable,No,No,No,No,No,Yes,No,Yes
+724,ac4b2f10ff4761bd5cead745d1d26e97c9a38846c711fa5e14e0a410262ec1c6,Yes,Yes,Yes,DSL,Yes,Yes,Yes,Yes,No,No,No,No
+725,3fd7759cc8e6a3a9118ced551363fb74a09fe57ebe6f5045fa15bce0018ddb3f,No,,Yes,DSL,No,No,Yes,No,Yes,No,No,Yes
+726,2eccff63cc4076fecf23fe24febdca9b22a846a2f07da68ff027599868d4db03,Yes,Yes,Yes,Cable,No,No,Yes,No,No,No,No,No
+727,fc2cdecec3c2c87baa40d43679e53c5b38ac6aa8cdee67ff8d237c0e190aa958,Yes,No,Yes,DSL,No,Yes,Yes,No,Yes,Yes,Yes,No
+728,05ea1da80bbd4ae09f676d36d1acd2d6122b845e8fb9adc1c20259d5e8273e45,Yes,No,Yes,Cable,No,No,No,No,Yes,No,No,Yes
+729,984476dea9bef29e737d772b9a05174256412cb4e3f26bea3b3e6af5109539ac,Yes,Yes,Yes,Cable,Yes,No,No,No,No,No,No,No
+730,f9f65f919a10695e2783ae7eb86d15cef2022a0ec09c9d69b7a84f9552da1bd5,Yes,No,Yes,Fiber Optic,No,No,Yes,No,Yes,Yes,No,No
+731,b8d19fa95aca1ba398a0f2c046e75466b24e18a6147c55a67cea9f498f4548d5,Yes,Yes,Yes,Cable,No,No,Yes,Yes,No,No,No,Yes
+732,bbc38fe93b7b1f7cfdc52a9af45a269ebd8a389d22b703efcd0c30109c035902,Yes,No,Yes,Cable,No,No,Yes,No,Yes,No,No,Yes
+733,bc8b80dd30d6c2410d6fd3e471ffb775ac5cc7b5b67ce922f46faa69a89e6275,Yes,No,Yes,Cable,Yes,Yes,Yes,Yes,No,No,Yes,Yes
+734,fd03d4afbcdd3deeafc70caec1779ca195b6f24da0f7f9ee6b12b85fa2834451,Yes,No,Yes,DSL,Yes,No,No,Yes,Yes,No,No,Yes
+735,03d7e97a7868eda1dfa70174f1bb65607178d11d7265a074158fe0dd1ca83064,Yes,No,Yes,Cable,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+736,5c5e27810e406db3fbe4356fe866d8ce4537f17c965ec809dc4e4b017b32a165,Yes,Yes,Yes,Fiber Optic,Yes,Yes,No,No,Yes,No,No,No
+737,7ddd0fa5de1d66666b58afe1ceda76f9d6cea8794576196d7592276d4fa46ac3,No,,Yes,Cable,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+738,f44fd6c20652bfe4efe5084104d929dc14e8da13b860157af24e5bcff7b83e61,Yes,No,Yes,Fiber Optic,Yes,Yes,Yes,No,No,Yes,Yes,Yes
+739,f88a603b68845cf896fee7d0ff44df1ffed725241103c92362cffd96b927846b,No,,Yes,DSL,No,No,Yes,No,No,No,No,No
+740,084c8d36ea4547a9e90e2a1dcfdbb156d9e3ba6b7e18b2251c9cfae2705da798,No,,Yes,Cable,Yes,No,Yes,No,No,Yes,No,Yes
+741,7cf56d300adb0df11990168ce3b2047831c88dae4a09f0f6b4be4093ceeba82c,Yes,No,Yes,DSL,Yes,No,No,Yes,Yes,Yes,Yes,Yes
+742,27f51b39e7fabd76f7a6c3c73391bac5703c39f6fbb9a8c4469af3563ef11622,Yes,Yes,Yes,Fiber Optic,No,Yes,No,Yes,No,No,Yes,Yes
+743,1c09e32c1d4f55c6445d895158de0e750acc6ef86bfb1ceed90d72bc0ccbab88,No,,Yes,Cable,No,No,Yes,No,Yes,No,No,Yes
+744,39f4307b4aec07a6a4323fb46fd00956cdbceba44b7ff7b34a021f8c86cf43ac,Yes,No,Yes,Fiber Optic,Yes,Yes,No,No,Yes,No,No,No
+745,87c775e9a65911ccc9c19c2e15fa657d8d5dfec5a9d92c4e7e1411bd42324b4e,No,,Yes,DSL,Yes,Yes,No,Yes,No,No,No,Yes
+746,33c79024cf2b0a8c4135032e04f429ed3dad5939f3877375f1d145f4f0e10b48,No,,Yes,DSL,No,No,Yes,Yes,No,Yes,Yes,No
+747,efaee5e417dc3f25bbfaf13c1ce4120c9654f6694a2e7b504bf6236fb23ea470,Yes,Yes,Yes,Cable,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes
+748,c60b71fd228ae2e17e4b6501285cf83d7c1b4fb2f4cb827f60ceaa0c25c55e64,Yes,No,Yes,Fiber Optic,Yes,No,Yes,Yes,No,Yes,Yes,Yes
+749,cbe2b978ee32e7b9dd67da9df5b347de54b474e7e9a360b8cd6df78e3cbeba40,No,,Yes,Cable,No,No,No,Yes,No,No,No,No
+750,b66262a2351094ab87138d08cdafdc92cfa38dc86c68901771818328c9fa8afd,No,,Yes,Cable,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes
+751,51d205a56391949c6fea97fce6f1dc719004e87fb5a273e3b3d2cddf4f46e1b5,Yes,Yes,Yes,Cable,No,No,No,Yes,No,Yes,Yes,Yes
+752,ad1d6544c9b3e25c051c97491d003428d8b8311fe491e8ba439423b5cdf7f153,Yes,No,Yes,Cable,No,Yes,No,Yes,Yes,No,No,No
+753,6fe5a916721e677d301d5a631ec1148f27226f1f564377a8740d9c37185e9608,No,,Yes,Cable,Yes,No,No,No,No,Yes,No,Yes
+754,753b3500d1df077c54ca586446f7f11af81a812fd8c5f3a61c5dbc40deca111b,Yes,Yes,Yes,Fiber Optic,No,No,Yes,No,No,Yes,Yes,No
+755,61c724e0ff9707786cbdfe8648f5ddab33a33c54c6d7c4c25bd6e4a8b4e88ccb,Yes,Yes,Yes,Cable,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes
+756,5c2648d61fa27e1e1c630ea478a1998a1cb93da201124e5427db8d520521de28,No,,Yes,DSL,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes
+757,f324b3bedf41dd2d427564c3e11698d2fa186130292ec1484a81c7d2d3f50ed6,Yes,No,Yes,Fiber Optic,Yes,No,Yes,No,No,No,Yes,Yes
+758,4a2dd630f8b0fc9225f99acd9173ce303100bbe5285094a0b689d7d5b086552d,Yes,No,Yes,DSL,No,Yes,Yes,No,No,No,Yes,Yes
+759,64f37b6bf43bf6b0c0a32eeb52a56d7538e096fd2c7fafb410542006240ace76,Yes,No,Yes,DSL,No,No,Yes,Yes,No,Yes,Yes,Yes
+760,ae29772ac8719aabc2509ce73132288f15c0909e9f4d8d8284c9ae65834c8cbc,No,,Yes,DSL,Yes,Yes,No,Yes,Yes,No,No,Yes
+761,9794a6d06ebdc1412c4c2903573a216b865ceab95eebd03327095c9fe97e156b,Yes,Yes,Yes,Fiber Optic,No,No,Yes,No,Yes,Yes,No,No
+762,2b739f2ff045d42398888de7dc11bf574e65ed923e4e829c0891cc6693976cb2,No,,Yes,DSL,No,No,Yes,Yes,Yes,No,No,Yes
+763,66e875238105b48ef6d51b2bf302d5d5ebabdfc8ada6d98699e220e8d449b71d,Yes,No,Yes,Cable,Yes,Yes,No,Yes,No,No,No,No
+764,22f1be24fa9f374be3745b368cec2b32df4805676463e33407bda5faac857c56,Yes,Yes,Yes,Fiber Optic,No,No,No,Yes,Yes,No,No,No
+765,69964043873d35cfe351c20fc97a331493685c6ac878f57ad40ffb35a209f228,Yes,No,Yes,DSL,No,Yes,No,No,Yes,No,No,No
+766,782c6766e42406a9dd485a3a11f4c5822dda726c3d160bf1a23c3f9c2d63570b,Yes,No,Yes,Fiber Optic,No,Yes,No,No,Yes,Yes,Yes,No
+767,458c23014c202ab175111ce9f11f56c6095aa630ef8f2814c0036398d75255ea,Yes,Yes,Yes,Fiber Optic,Yes,Yes,No,Yes,No,Yes,Yes,No
+768,83a852272f2b8b2b03ee7f09873fa741ba2857c7e8d4364908aac13359396f90,Yes,Yes,Yes,Fiber Optic,Yes,Yes,Yes,Yes,Yes,Yes,No,No
+769,0037f3df969518e4d129f92f6462c707960f5c12a13ad73409ec9c9d1502af18,Yes,No,Yes,Fiber Optic,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+770,97dbe07503171212d6d2b6dc45c0e89a00f86f06e163794a4345e6785707f515,Yes,Yes,Yes,Cable,Yes,Yes,No,No,Yes,Yes,Yes,Yes
+771,71f507ca869174d6685c08f3748e61df50b83f41cc66d05356902540e413e01e,Yes,No,Yes,Cable,Yes,No,Yes,No,Yes,No,No,Yes
+772,ef777e261f2aa64b0edb7c3dad3b9bf616dab2250e4da35bc26f7399fe1a33dc,Yes,No,Yes,DSL,Yes,No,Yes,No,Yes,No,No,No
+773,b952665abb9fd2891dabe617c349a0a931a25c880fbdd22085bf4375d4a70281,No,,Yes,DSL,No,Yes,No,Yes,No,Yes,No,Yes
+774,71b69668206c5b9d3f3c0e549735f5a790292ae99738b1a42835a01d6bf71554,No,,Yes,Cable,No,No,Yes,No,No,No,No,Yes
+775,16885d1ed29a2927f162f05cd3016f3b1c1f3eac5c32a469ca1aae5afb19df16,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,No,No,Yes,No,No
+776,8cf0f3d928334e12909e13749cdebfbd5adaf88dd0a2b31de9d5ee806a78a164,Yes,Yes,Yes,DSL,Yes,No,No,No,No,No,Yes,Yes
+777,650a58ddbd8568d93e80e67b6e578059e03e44318b58aa062c76522b5c729a68,Yes,Yes,Yes,Fiber Optic,Yes,No,No,No,Yes,No,No,No
+778,2c5c786547c2ff804c3ecbf005842fec5e4c5076b585bc2d18ab1536f6910ea7,Yes,No,Yes,DSL,Yes,No,No,Yes,No,Yes,Yes,No
+779,145925dee60feb35cb4b23cabdd86904eb01e417074580e55ec1fb1fd02b2bee,Yes,No,Yes,Cable,Yes,No,No,No,No,No,Yes,Yes
+780,0aa798b04e36d0dd3bb96a4438c099befcfdb9ff045bc50405df23b20a88f420,No,,Yes,Cable,No,No,No,Yes,No,Yes,Yes,Yes
+781,04a7158db30fff13859de993cf98ca3080165a80ce39cc4339e7d2e7ac15cc04,Yes,No,Yes,Fiber Optic,No,Yes,Yes,Yes,No,Yes,No,Yes
+782,0638c95a4e0fe222b29dec876c58aa9c7bca33b185c15af818800ad9febe4ee5,No,,Yes,DSL,No,No,No,No,No,Yes,No,No
+783,38b4d6f31dfd02208a48d27bf1a1ec5655216c12c6ad24abd375358004bf8f01,Yes,No,Yes,Cable,No,Yes,No,Yes,Yes,Yes,Yes,Yes
+784,949d51c99bdad676387dbce4d6613365bc6cf024f033083972f9480404ace6d0,Yes,Yes,Yes,Fiber Optic,Yes,No,Yes,Yes,No,No,No,Yes
+785,b7f90c7094563db1cfb2b6c722e266692f75ec6a0d9aaab1310549b7765123a1,Yes,No,Yes,DSL,Yes,Yes,Yes,No,No,Yes,Yes,No
+786,9fa3f50bd8cf7b502069464b34c8d36a65255b04e690f633d2bfdf580abb5450,No,,Yes,DSL,No,No,No,No,Yes,No,No,No
+787,d725cda9522314be0124b7b3be53cb7b8f81e6c0844eed6ba2a5e66cb076bb60,Yes,No,Yes,DSL,No,No,No,Yes,No,No,Yes,Yes
+788,b25fb7a6a6b012726a31c8116896ff3fef8ad03a84df09bbecb7039ec1cf989d,Yes,Yes,Yes,Cable,Yes,No,No,No,No,No,No,Yes
+789,ccd82bb9ce083b10d541c0f77b35a01a23eba4d5206ec16bf1cd366f0334d677,No,,Yes,DSL,Yes,Yes,No,No,No,No,No,No
+790,d8b510f0ebe0e1e22ef435bb7814d761dc0514beacdd17b13ffa5e92cc35f5f7,Yes,No,Yes,Fiber Optic,Yes,No,Yes,Yes,Yes,Yes,No,Yes
+791,d241e2031fbb9810067fdaf587284cd1e8cfcaa0af1ad7c834b7040d1a9cccd9,Yes,No,Yes,Fiber Optic,No,Yes,Yes,Yes,Yes,No,No,No
+792,40b5ef12a4414e6bdd02e4430a12507619b50a5469072c51fcddb5cc966e69d5,Yes,No,Yes,DSL,Yes,No,Yes,Yes,No,Yes,Yes,Yes
+793,bd14158b85b3e0f3c77c2d96973d9f4a60f4c153180a9ac6ac10529eefe35e07,Yes,Yes,Yes,DSL,Yes,No,Yes,No,No,Yes,Yes,Yes
+794,28b021f10a10605aff3620757a49fe54272476d070b102ef1aa58be444a302c3,Yes,Yes,Yes,DSL,Yes,No,Yes,No,No,No,No,Yes
+795,face4d6b161721265c045416cf0a42869794737b454ae84e8a37a4781146c0f6,Yes,No,Yes,DSL,Yes,No,No,No,No,Yes,Yes,Yes
+796,6c7f30d9a31479357621045e078d2ac333fe56d59f5b09a10bcf3aa491426be7,Yes,No,Yes,Cable,No,Yes,No,No,Yes,No,No,Yes
+797,5cbabfb563384173bb26750725db8bf425c4cf0b036618851662081b725cb636,Yes,No,Yes,Cable,Yes,No,Yes,No,No,Yes,Yes,Yes
+798,129c6c045af4198d8288cd4d53eec6d62aecb8efdcab080b15efa47808b17d56,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,Yes,No,No,Yes,Yes
+799,901b4fdad20627716deb666bce610cf5d2cdf9bb45282522512e780ed3770e0d,No,,Yes,DSL,No,Yes,No,No,No,No,No,No
+800,bae01356b0459c49cd05b3f63f7e8c10ce9a4568143eb8db3999c1178768cc36,Yes,No,Yes,Fiber Optic,No,Yes,No,No,No,Yes,No,Yes
+801,37ae8c844f6dbdb715e2467699f76061fc339fdea6653d0b7a7afcb63831cf5e,Yes,No,Yes,Cable,No,Yes,Yes,No,Yes,No,Yes,No
+802,69c0e716a92097dae2ce916e8d28fd48ade220f176948da62b65934c3c319e17,Yes,No,Yes,Fiber Optic,No,No,No,No,Yes,No,Yes,Yes
+803,ff64a5abf75295c1f658a1e05d21afdae68d271efd61cabd32dcf18864775d3a,Yes,Yes,Yes,Cable,No,No,Yes,No,Yes,Yes,Yes,No
+804,3009268fa68ac13299f4563ca1efb6bafb9f4412a5b57f1a14498e4803af55e9,No,,Yes,Cable,No,Yes,Yes,No,Yes,Yes,Yes,Yes
+805,58c47509b4e904e3447d2a1825e2b9c50a747765116919854edbbfe8d75a2d84,Yes,No,Yes,Cable,Yes,No,Yes,Yes,Yes,Yes,Yes,No
+806,ff3fb8b362643a63bb2122a413c14c2b4cc30f171a77d942e110b1676d9fe2f9,Yes,No,Yes,DSL,Yes,No,Yes,Yes,Yes,Yes,No,Yes
+807,4e2cb21cd14fe17d87b5e5a0f012fc8c977b11d80f19a558f5144801f1e9a782,No,,Yes,DSL,No,No,Yes,Yes,No,No,No,No
+808,390de203b6e5f4e5295e65643910e62072765ab8ecab1a32a054aa56ff9f63db,No,,Yes,Cable,Yes,Yes,No,No,Yes,No,No,Yes
+809,d2a2f40dcf34d2c75e515a27ab3826e6eaa2a94607ff55a1e29aea091eb94a8d,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,No,No,No,Yes,No
+810,e6fa26cbb81486cd8ed40339890972e462e6ac2b821d6a50cf350bf874a60d28,Yes,No,Yes,Fiber Optic,Yes,Yes,No,Yes,Yes,Yes,No,Yes
+811,b3fc83b538d38065c8597741933e456251bd7333df65c98dd3a03514993e98f7,No,,Yes,DSL,No,Yes,No,Yes,Yes,No,No,No
+812,f5d8845fca47065c68396c2021c43d8528aa4742672fbaf3b7cb58bb80ddf391,No,,Yes,Cable,Yes,Yes,No,Yes,Yes,No,No,Yes
+813,028c8e41bc569d0ffd2f16d3c2cfab7376f17d4740d4445c4a0fea67a70854c6,Yes,No,Yes,Fiber Optic,No,No,Yes,No,No,Yes,No,Yes
+814,b1ebb523969d697b4808749f4499fa45d39c4b3ca4bba5046989b73a2f853634,Yes,Yes,Yes,Fiber Optic,Yes,Yes,No,No,Yes,No,Yes,Yes
+815,aa10a62aa6cfe4ebe5263f7fc5ef7d8f5a8e6a39d0c80270120eadf0b02c47b0,Yes,No,Yes,Fiber Optic,Yes,No,Yes,Yes,No,No,No,Yes
+816,76c8ca76b0ee00a6aca15678fd388c1731338c704bb96a6ddd87753a8ed8aae4,Yes,No,Yes,Cable,No,Yes,No,No,Yes,Yes,Yes,Yes
+817,9fc5f36ae32c3de70adc29838e02e76a192ed2d8faa5851e37c344bdce6e0975,No,,Yes,Cable,No,No,Yes,No,Yes,Yes,Yes,Yes
+818,862d3688c940059e4001a5a07bbceb856517437d093002474cb402b4dcda243e,Yes,Yes,Yes,Fiber Optic,No,No,No,Yes,Yes,No,No,Yes
+819,63512aa0f316e882b5788d0adae3e832e04b654b9c67b84a2f4f50c9a25ff358,No,,Yes,DSL,No,Yes,Yes,No,Yes,Yes,No,Yes
+820,0c0e22ba99cf99081f1bd3abff0598b72c4847ec4a8b78012a0f776dd8eb7fef,Yes,Yes,Yes,DSL,No,No,No,No,Yes,Yes,Yes,No
+821,f117a3bb6f14c786590b421dcae014563cfa0301ca6edcf78a352c4cc3b2ae5b,Yes,Yes,Yes,DSL,No,Yes,No,Yes,No,Yes,Yes,Yes
+822,beb2b4871e30b2db199e48dbe345cfe731103b6c5c8b6530e94109ee3cf8622a,Yes,No,Yes,Fiber Optic,Yes,No,Yes,Yes,Yes,Yes,No,No
+823,fff75ff20ef3229beca85c4528ed55283bfcbc4f05012a4a80d6c29dba98a1cf,Yes,No,Yes,Fiber Optic,Yes,Yes,No,No,Yes,Yes,No,Yes
+824,a4116d79bc15080c6277930da0ab4d12af4743e90491262e5662cb9f90b48815,Yes,Yes,Yes,Fiber Optic,Yes,Yes,No,No,Yes,Yes,No,Yes
+825,82554ed29b0a8fd773b33a9d64954fc23b220a3edafcbb985c42ee6e55115c6d,Yes,No,Yes,Cable,No,Yes,Yes,No,Yes,No,No,No
+826,5c1715f4bdfc1def5e6d0843a06629415ef47bc234e333f66bdd3e8b18faf552,No,,Yes,Cable,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+827,70ef048f7b8453dafee8d48d2ae9bba9fd5a886bb92b023023a670c1ef777f94,Yes,No,Yes,Fiber Optic,No,No,No,No,Yes,Yes,No,No
+828,07ed2e5ab77dd636b4e71c307796b76916906a827d4ec263ad4b3b12f9f3e19b,Yes,Yes,Yes,Fiber Optic,No,Yes,No,No,Yes,Yes,No,No
+829,aade2f8dfc0856261d5b2ea0a8493a2dc6876e72fa62b01c6503361be1e58277,No,,Yes,Cable,No,Yes,No,No,Yes,Yes,Yes,No
+830,80cd09e218736d2a54b447392cffa7d290f93cbafc99c3847b38ff12b7cd85c8,Yes,No,Yes,Fiber Optic,Yes,Yes,No,Yes,No,No,No,No
+831,ec1e8d0c3e708748a80b10588baaa1d6e870e37859cf653ddef8b291b53ec3b2,Yes,Yes,Yes,Cable,No,No,Yes,Yes,Yes,Yes,Yes,No
+832,b00b3d8ca7f8d268c6be2a283eadda19b3cc75a3e82ddcfeb60ff2984ea99b32,Yes,Yes,Yes,DSL,Yes,No,No,Yes,Yes,No,No,Yes
+833,1d40fd8841a0a289695c181bca20fc96ea4bafbecf804217a063a63bf47e0b0b,Yes,No,Yes,DSL,Yes,Yes,No,No,No,No,No,No
+834,54822ccd07e3410c00f3cf15df6ecb319139201e377fa2fa32fd3e25020c2d16,Yes,No,Yes,Cable,Yes,No,Yes,No,No,Yes,Yes,No
+835,26de3fb9d5beed12a20c9c12df115d5377b37221a7e608fab9c90a023f24308f,Yes,No,Yes,Fiber Optic,Yes,Yes,No,No,No,No,No,No
+836,2c6e4db2c684475b7c0a531031fcff07742d998c90627dc28b1616cc07d79119,Yes,Yes,Yes,DSL,Yes,No,Yes,Yes,Yes,Yes,Yes,No
+837,a6f7c1e50b21835b461a0357e5588f686b18c96106e49f2cdc48945958e252b8,Yes,Yes,Yes,DSL,No,Yes,Yes,No,No,No,No,Yes
+838,091e8e04be73bc78e942cef4887d3be705dd365943edcba829c430fa7f36a897,Yes,No,Yes,Fiber Optic,Yes,No,No,No,No,Yes,Yes,No
+839,259d6e5361a66c6967d0cf5a72313fc0c1bd79c4b0af4b7a668b6a0efa1d59a4,Yes,No,Yes,Cable,Yes,No,Yes,Yes,No,No,No,No
+840,83d6b5161c89573a1ab7712960cebe2864f1d080f550527ac6d5041f2879eeca,No,,Yes,DSL,No,Yes,No,Yes,Yes,No,No,Yes
+841,c13686957e892a61c915e31bb2dcd6a40d4ec8064e9909bc56ccc000e308c8b0,Yes,Yes,Yes,Fiber Optic,Yes,No,No,No,No,Yes,No,Yes
+842,fe60bdccc200cb9e779763164476bf785d3e1b8d43caaf905e7a6f9e8cb9b438,Yes,Yes,Yes,Cable,Yes,No,No,No,Yes,Yes,Yes,Yes
+843,da765d34009a3f24e306a3bad0f1042882ea230a78c3a824f2bb15ae3e5819de,Yes,Yes,Yes,DSL,No,No,Yes,No,No,No,No,No
+844,55e1af827379ab980546fd93cadc8b02e762f5ebb913f8a6ab0fae6c899ac748,Yes,No,Yes,Cable,No,No,No,Yes,No,No,No,No
+845,45c1b091486863fb42e4c645619fcb51739d103f0184133b2cc2193fe862a4dc,Yes,Yes,Yes,Fiber Optic,Yes,Yes,Yes,No,Yes,No,Yes,Yes
+846,ef1631223ad4cc4e5644ecd9ce706beecc71d157466beb2e2c578084b68de4fe,Yes,Yes,Yes,DSL,No,Yes,Yes,Yes,Yes,No,No,No
+847,c779857bb9266704c5638206cf79bd6cf4780cc56a03866162a02865220d3524,Yes,No,Yes,Cable,No,No,Yes,No,No,No,Yes,Yes
+848,f3fd6a81451ffcf6692c9e133fe32d740c60c99be5123f0cbab7fcdd9d24ad7e,Yes,No,Yes,Fiber Optic,Yes,Yes,Yes,Yes,No,No,No,Yes
+849,bac3a3b5be2e8b713a2c0db98d79dbb5548c6ca16e72382ccc394cb4e812bcc4,Yes,No,Yes,Fiber Optic,No,Yes,No,Yes,Yes,No,No,No
+850,c15deb5570a09f898e711bb712d077494b1cae340930e667198a2c4baabb0892,Yes,No,Yes,DSL,No,Yes,No,No,No,No,Yes,Yes
+851,ee6188ed6f60c46ef24ee85a168c79e60cccf2d5a92c16c979e89bf11114fc26,Yes,No,Yes,Fiber Optic,No,Yes,No,Yes,No,Yes,Yes,Yes
+852,95351984385c43125a87968f8383a4336839c613da42e5f9c6fb70135dce9b00,Yes,Yes,Yes,DSL,No,Yes,No,No,No,No,No,No
+853,ca18c55c8854c593a049181957dcf219757b964cbd8d9bba8908da69e87b0e4d,Yes,No,Yes,Fiber Optic,Yes,No,Yes,No,Yes,Yes,Yes,No
+854,6d1d6bce3c376b3b39c3966d47cc707561ea15d7308eebbd55eebb96b89dfbcc,Yes,No,Yes,Fiber Optic,Yes,No,No,Yes,Yes,Yes,Yes,No
+855,7327ebc672542cd153f8e39b6d2ff5e5b2987a4785c6a8facccaa634a2b9be30,Yes,Yes,Yes,DSL,No,No,No,No,No,Yes,No,Yes
+856,d9513496e61ce87164ed9b6737d48281aea5ece06812e4d04afcbc35e8711760,Yes,Yes,Yes,Cable,No,No,Yes,No,Yes,Yes,No,Yes
+857,98b923a0c666ebe578f0bf1b74a956aa6e51d4ee6c77a525a64bbee63bb3ca58,Yes,Yes,Yes,Cable,Yes,No,No,No,Yes,No,No,Yes
+858,fabfcce555efa9cbc2c768aad5bb60979eb1036346a9233feba83f25def20221,No,,Yes,Cable,No,No,Yes,No,No,Yes,Yes,Yes
+859,5a38ed43d71c65a05db2341aeb0ff8a526dd1f7824a3c5142aac2e4b9b34a259,No,,Yes,Cable,No,No,Yes,No,Yes,No,No,No
+860,b77ba9ade0400716889c580019051caa17329a7d091c77dd81719fac2556e938,Yes,No,Yes,Cable,No,No,Yes,No,No,Yes,No,Yes
+861,02d03bb2c0c50f6e6c3b544f32517ffb32cbe23148ee9ffc5ac7cc25b594a52e,Yes,Yes,Yes,DSL,No,Yes,Yes,No,No,Yes,No,No
+862,9a75595bcb080a25aa9f5d92de71ade025134b20a7fec1552f3e2462ce4b324b,No,,Yes,Cable,No,No,Yes,Yes,No,Yes,Yes,Yes
+863,3466ad668c8d9dc88ea1a5da2cf6f95ffebaca03c1cba9b8ba653f802420e9ad,Yes,No,Yes,Cable,Yes,No,Yes,Yes,No,No,No,Yes
+864,c163c0773dfadf5734392afc4460ce9b04e5919092b652335563e63127dbb16b,Yes,Yes,Yes,DSL,No,Yes,Yes,No,Yes,No,No,No
+865,35d8aa3c20291625e47b337546546e460c119282920a43d7706c14ae842d19eb,Yes,No,Yes,DSL,No,Yes,Yes,No,Yes,No,No,Yes
+866,7311ed922f165911a197ddd8c7a819870bbed979a4583537ff7914eef26a9c0f,No,,Yes,DSL,No,No,Yes,No,Yes,Yes,Yes,No
+867,d4cd9db0d2d1ae6c59b417df059ac8d0b430bd1d6f64d4bba275a99f49a3eb64,Yes,No,Yes,DSL,Yes,No,Yes,No,No,No,No,No
+868,86cf0f1512e8900e959bbb27a6c30fef3b3cae0ac0ec71139157966763c182f7,Yes,Yes,Yes,Cable,Yes,No,Yes,No,Yes,Yes,Yes,Yes
+869,ef6378c4b95c8033140bcc0bf3111ec6cecf27668cf205494102840af1de45a9,Yes,Yes,Yes,DSL,No,No,No,No,Yes,No,No,Yes
+870,2a33381359354ab8ab364c43f31d2ab13b3cb0d4f8ee3db5c545f0544b8c26fb,Yes,Yes,Yes,Fiber Optic,No,Yes,No,No,Yes,No,Yes,Yes
+871,4a734b99bce2fb85f35fecb0426630bf3aadc659302cc717f95852439202bc54,No,,Yes,Cable,Yes,No,No,Yes,No,No,Yes,Yes
+872,b53e934d48cbc048699b14b9dffc5a8a97117a0ff08616ded519758bdd9b0928,Yes,No,Yes,Cable,No,Yes,Yes,No,Yes,No,No,Yes
+873,6bc6d62463feddf130d3ee07ad3a2ac35b3a69c1216777979a52682a57a735cb,No,,Yes,Cable,Yes,Yes,No,Yes,No,Yes,Yes,Yes
+874,7c2d0ebd8a58df2d57791df07392cc95d0216293a35997a0f411d692e463cc30,Yes,Yes,Yes,Cable,No,Yes,Yes,Yes,No,No,No,Yes
+875,41d5e967cc0f15d2bb7afd5fb96d9179a4c5b6fb2c7fc737a2c2d43b5f1fd699,Yes,No,Yes,Fiber Optic,Yes,Yes,No,No,Yes,Yes,Yes,No
+876,ed11615fa0c616f1853775c3a38a714adfd013524683afb344f4e5bd318eef70,Yes,No,Yes,Fiber Optic,No,No,Yes,Yes,No,Yes,Yes,No
+877,483ff53c4834df17e3d7888686c9e15e3d9f56268c192aa94d94fda741b25f66,Yes,Yes,Yes,DSL,Yes,Yes,No,No,No,No,No,No
+878,666aa5095e57cb2c253200e826e90d82587fc5fcac5d89d9101219f8e1e77695,Yes,Yes,Yes,DSL,No,Yes,Yes,Yes,No,Yes,No,No
+879,c3911affd28afaafb0418cc47984f9dcf46813c50aa77bf05d1f83f9902d75b2,Yes,No,Yes,DSL,No,No,Yes,Yes,Yes,Yes,Yes,No
+880,bf43387fc89b562524d253d33e21ef270a5d87f58946b4f3cdd7cf96112218e1,Yes,Yes,Yes,Cable,No,No,No,No,Yes,Yes,Yes,Yes
+881,9f465d59c7064972f0c8524710cc086b85f3903146d72265c19d67f97b3b9ec1,Yes,No,Yes,Fiber Optic,No,Yes,Yes,Yes,No,No,Yes,Yes
+882,b40aa3fc4167a3d9f946a8ec4d85352d20e174130a88d91f64493505a5bff96b,Yes,No,Yes,Cable,No,Yes,No,Yes,No,Yes,Yes,Yes
+883,fc2e6e60d9a3a6c0d61e6bd41c7c11f97aa89f1f8ba4530ef1600686370f117d,No,,Yes,Cable,Yes,Yes,No,Yes,Yes,No,No,No
+884,2688ec4dd5b59bddb7783e355f1c538d4b7ea330420d3dccd7f3f8280237b1a4,Yes,No,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes
+885,25790ca91b137d9833e1f6b2d2316750a6472365134ef4de46410856c3fff505,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,Yes,No,Yes,Yes,No
+886,29ded896bc82bccca01357ccee53276504a072e132ffc5840232408fd973a1b3,Yes,No,Yes,Cable,Yes,Yes,No,No,Yes,No,No,Yes
+887,57ce83afdc4042b386175bf513a6f0dceb687c640992c4844dd3224e959bcbf9,Yes,No,Yes,DSL,No,Yes,Yes,No,Yes,Yes,Yes,Yes
+888,8e63e9c05ee2cb0309c94383690496880ac948e49544ea9d37641af35b789479,No,,Yes,DSL,No,No,No,Yes,Yes,No,No,No
+889,f3af76d3ce1f3aad72e8cd6aa1cc8d81e93e2f79dd2999d0c89d3a6501a5f409,Yes,No,Yes,Cable,No,Yes,No,Yes,No,Yes,Yes,No
+890,eab22c6d7aff3246dffe741b7fe04911b8ad66efdcfd5c73d0d96bd2d4d2db2b,Yes,No,Yes,Cable,No,No,Yes,No,No,No,No,No
+891,446ae583fc65ce906df5b4b4b4e1f0c2803b33676f0e26c24ab64054d7d6d317,No,,Yes,Cable,No,Yes,Yes,Yes,No,No,No,No
+892,45141c236b9173b464eb7d7988d9f996782bd3e9b006eeec525b49e420511729,Yes,No,Yes,Fiber Optic,Yes,No,Yes,Yes,Yes,Yes,Yes,No
+893,4da570a834df89bf58e352c3603303df0623900a6cd96dcb55c8cd9af791a888,Yes,No,Yes,Cable,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes
+894,975ee5521147357ded9a3000d6342ebf64c9369f964fcc3d82d5a9a19b82bbc2,No,,Yes,Cable,No,Yes,No,Yes,No,Yes,Yes,Yes
+895,52ec131dc08daa1651762046de66137fa9d0d382b248028adb0ed74851e06ec8,Yes,No,Yes,Fiber Optic,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes
+896,b03f692fd89fa66116bd3f337b258bd29325c31a4ebeb7ed3d0e66e20c68a6c2,Yes,No,Yes,DSL,No,Yes,Yes,No,No,Yes,Yes,Yes
+897,57fd1f5ab0f9cff2e10d0b4ef9dae40ec4c64b81700b89437c6d719147dc09d1,Yes,No,Yes,Fiber Optic,No,No,Yes,Yes,Yes,No,Yes,Yes
+898,e62b0d91d4b3e31b7e2475e860d22c1fbe802c812e4f98ce5f863ef5033064a7,Yes,No,Yes,DSL,No,No,Yes,Yes,No,Yes,No,Yes
+899,fdb72efdec8bb3985e1a10361946ab44190fe842a1b0445f5f72ca409b7a9009,No,,Yes,Cable,No,No,Yes,No,Yes,Yes,Yes,No
+900,86de9176e5a470e053bd177a7ce4af1ed53fa082c668f746ccedda3a8b451fa8,Yes,Yes,Yes,Cable,No,Yes,Yes,No,Yes,No,No,Yes
+901,97d7f3e9547681dec17a244f2e681767eb15d3d9be7dc2bfb9722ca41aa6b8ae,Yes,Yes,Yes,Fiber Optic,No,No,No,Yes,No,No,No,No
+902,e0babedc34ffa9c6bce4b284dc2e6ece54b03aa7815942e22158e48beebd3388,Yes,No,Yes,Fiber Optic,Yes,No,No,No,Yes,Yes,Yes,No
+903,1bea075c07a36638be17a227c0fc3e8c5722899d38ceaed3922fba0feba65704,Yes,No,Yes,Cable,Yes,Yes,No,No,No,Yes,Yes,Yes
+904,bb25a5e93511fe4fed459a4ffca08b484973ca17616e396c03cc6721d80368ab,No,,Yes,Cable,Yes,No,No,No,Yes,Yes,Yes,Yes
+905,e0f3b23da2f115c623475e09b1a87597ebd7ff6c70b141e7ebf42e732fce5230,No,,Yes,Cable,No,No,No,Yes,Yes,Yes,Yes,Yes
+906,75225234e47203304c782dbb27773ae75c8510670025d7b395c84e406db93998,Yes,No,Yes,Cable,No,Yes,No,No,No,No,No,No
+907,bfc594a11f7f0a8d5060225f63eacae5fcebd8df6f76c4773ecf24a3183b6981,Yes,No,Yes,Fiber Optic,Yes,Yes,No,Yes,No,Yes,No,Yes
+908,4f7b45bd372ad27df966e1351d18da41f910667f98563e9c5bf3556dd14ba43b,Yes,Yes,Yes,Cable,No,Yes,Yes,No,Yes,Yes,No,Yes
+909,a43a381e49cc8557cf710f824a2960e3c382e5496a45c5d6230466bb23d61325,No,,Yes,DSL,Yes,Yes,No,No,Yes,Yes,Yes,No
+910,9785491801cae7d49b7c045ff17efdcdb8b39eef0582bdb2e18b8a81e28f70d4,Yes,Yes,Yes,Cable,No,No,No,No,Yes,No,No,No
+911,e3cd69268eebb1ec2f3f4f4a73070dfed3e53dc8a4b9438ce2589816d9cb0ff6,No,,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes
+912,a970bda3b2ca95b1a687f15bf9c7b01ba49578590171576e2dd97fc80393fe17,Yes,No,Yes,Cable,Yes,No,No,Yes,No,No,Yes,Yes
+913,13499d93612fd10cf379d14288db34b36338c3b419f7efc9d8472f74590d2c83,Yes,No,Yes,DSL,No,No,No,Yes,Yes,No,No,No
+914,387375c15d381fcb35842ec1336069fe52cb587b481eccb4b4b364c75e5b1513,Yes,Yes,Yes,Cable,No,No,Yes,Yes,Yes,Yes,No,No
+915,f58e748ec1a9523707cd250a695b2130d4998ea78e1e4428bd312f9b31a4589b,Yes,No,Yes,Fiber Optic,No,Yes,No,Yes,Yes,Yes,Yes,No
+916,215276b3f9690252263a102a000bc80a18603020c757febec181768d959ffd13,Yes,Yes,Yes,Fiber Optic,No,No,Yes,Yes,Yes,No,No,No
+917,6df1ec9278bde648439b065a0e36ea3c835d262c1ae1ca008c30452df5622e4e,Yes,Yes,Yes,Cable,No,Yes,Yes,No,No,Yes,Yes,Yes
+918,680d5b9df2d37e41eec9f680bd38cb25b3ff5c18ee088d4fa0dc3811f5e8800f,Yes,Yes,Yes,Cable,Yes,Yes,No,Yes,Yes,No,No,No
+919,81423b7bec57095aa7a478171f0dc10dda1005e204bdead259c1d78a10e6b434,Yes,No,Yes,DSL,Yes,No,No,No,No,No,Yes,Yes
+920,d33e78f23dc5c2c406b5fc3fe7d3607c4450c9bcca36e1a18134e7dfaabd586e,Yes,Yes,Yes,Fiber Optic,No,No,Yes,No,Yes,No,Yes,Yes
+921,7f5475af7c53a5b2c3c4edec3194e11c66c5c9ddc063731a46d3d0c2c52d0735,Yes,Yes,Yes,DSL,Yes,No,Yes,Yes,No,Yes,Yes,No
+922,be3dcc8c8a76894c5786bc5a1ed5b885dbc2a7c98ab02020dd0052535899127e,Yes,Yes,Yes,Cable,No,No,No,No,No,No,No,No
+923,81a959541b1614f54e0d5ff9dd26ee876134e1f52dbc7a42795797ae547dd4de,No,,Yes,DSL,No,No,Yes,No,No,No,Yes,Yes
+924,0e824c9ade93998de74f5aaeaee314d57735fd41f89bf53a2d95332af08994a1,Yes,Yes,Yes,DSL,No,Yes,Yes,Yes,No,Yes,No,Yes
+925,c3e34e47fe17af4d34fe08d13e7e32a6b0dff0198a7daadc8c1ea115913daefa,Yes,Yes,Yes,DSL,Yes,Yes,No,No,Yes,No,No,Yes
+926,d618e30a6379cb325143dc2b8f65ea43f6ae0bc708dc528d87ce0b4eb333d57f,Yes,Yes,Yes,DSL,Yes,No,No,Yes,Yes,No,No,No
+927,b565d5e4be38d51e61b92b9243140d3f27d8838132b1e48f3de3671ebf6dbe69,Yes,Yes,Yes,Cable,No,Yes,No,No,No,Yes,Yes,No
+928,79f2895cb83e65d89975b5923f2e9ca8ebc7d2ca68760569dccdc46f267b686c,No,,Yes,Cable,Yes,No,Yes,Yes,No,No,Yes,Yes
+929,9f2a64f077798276b8d53eace57eb02976eef77dbb5c6a13b1ddbae3b9288412,Yes,Yes,Yes,DSL,No,No,No,No,No,Yes,Yes,Yes
+930,5ee3f8fce6a369f840ab1a68ce805bcde2e3f621103aeab7471dbac56a1a5e0d,No,,Yes,Cable,Yes,Yes,Yes,Yes,No,No,No,Yes
+931,c8006e5b8a0898527f23cf8fdf226d8702f8cea2bf939666622dcf16fe34f0c3,No,,Yes,DSL,Yes,Yes,No,No,No,No,Yes,Yes
+932,6afe64ed4b823a1efafcf2d85f1896a13010525ae71a98912d8813f8ccab2509,No,,Yes,DSL,No,No,Yes,No,No,Yes,No,No
+933,89f6d9496cec56ea25f5b784c4574e7dba6978327927004d9346cca275feb017,No,,Yes,DSL,Yes,Yes,Yes,Yes,No,No,No,No
+934,1fabb4b82f00e6ac8bbc3481083d0ccb274a84befe37204b9277835f7214f8e3,Yes,No,Yes,Cable,No,Yes,Yes,Yes,No,No,No,No
+935,8e5c3abe9b1eb70f180843674f5207783da882826612203872f25173f73ee42b,No,,Yes,Cable,No,Yes,No,No,No,Yes,Yes,Yes
+936,0b0867ecae99816456d46676cab35abe0dcf11d77c8aa613de31e272404198cd,Yes,No,Yes,Cable,No,Yes,Yes,No,No,No,Yes,Yes
+937,21b74fddfdcdc6674763df4a23a7ebc5c34eaaf20a6a2ba2feb2120190e67b54,Yes,No,Yes,Fiber Optic,Yes,Yes,Yes,No,No,Yes,Yes,No
+938,dbc8a7aa51321e01aa804e6f921b939ec6a2f221a2e10671fd1784beeaa7d188,Yes,No,Yes,Cable,Yes,No,Yes,No,No,No,Yes,Yes
+939,00e4a89defbdfb41bcac6f154a78d413e1113c21030f7df641b228ad5af3d7bd,No,,Yes,DSL,No,Yes,No,No,Yes,Yes,No,No
+940,e04ff7c626df3bdc3ca0c8bc2bd4b7ca433c0250f48902c1f247278ec5154d40,Yes,No,Yes,Cable,No,Yes,Yes,No,No,Yes,Yes,Yes
+941,cb0597959ae47f43e2c4cb061cde57ed844762cad601a7ce9ae5247546f6fe0c,Yes,No,Yes,Cable,Yes,No,No,Yes,Yes,No,No,No
+942,ea08a56e9f6cc3ac3a9b94985254f2ab26cb2a1051286c287bca563a1dddfc05,No,,Yes,Cable,Yes,Yes,Yes,No,Yes,No,No,No
+943,53cfa5b2e80c1a9e058e8c704e35b0f42ee6fbe40c37d3244e48615d243d3104,Yes,Yes,Yes,Cable,Yes,Yes,No,No,Yes,Yes,Yes,No
+944,6ca561ed418856628b22cd2ee159d7362643d78dc42bc7e757e0028450b6762e,Yes,No,Yes,Fiber Optic,No,No,Yes,No,No,Yes,No,No
+945,b5a56db5e9e81e1f7e8b93cfaaf39f9ab18a7fa5a9949cc29dc63616889f2822,Yes,No,Yes,Cable,Yes,No,No,Yes,Yes,No,No,Yes
+946,1c830b56d58a39cdc367b7ab0062427d3b0f75b772d958bfd3d27d9c2883b208,No,,Yes,Cable,No,No,Yes,No,No,Yes,No,Yes
+947,da3c2190ba945ee5cee7d9289c11d4563a03fe65595efd0fa46aed02bfa0ec09,No,,Yes,DSL,No,No,Yes,Yes,No,Yes,Yes,Yes
+948,bef8f696fd00539b8fa352a89331a66c22a70067738fbdfc6b137b2c84d74d1c,No,,Yes,DSL,Yes,No,No,Yes,Yes,Yes,Yes,No
+949,c8c8aa1368fcab4efb469e90fdcc02e6fd25b81074a85c4586da31ca0f8e7655,Yes,Yes,Yes,Fiber Optic,No,Yes,No,Yes,No,No,No,No
+950,9252b4b002389c016c1f0ce4b3bf87518140a598bc1ab07191cdb749a70285aa,Yes,Yes,Yes,Cable,Yes,No,Yes,No,No,No,No,Yes
+951,e09525bfcd11c9af45d5fae4c32a075fa740397ff5bb5112b49f73e528384ae7,Yes,No,Yes,Cable,Yes,Yes,No,Yes,Yes,Yes,Yes,No
+952,6aa280bc9cc7451c537f58c0ce3a8b7d8b8aa5ff592b8b77c1ae11f0896c8aa3,No,,Yes,DSL,Yes,No,No,No,No,No,No,No
+953,0b64a79f225ca033eff222a5eb72f8235acee338b7da8e5fd14129bb140d630c,No,,Yes,DSL,Yes,No,Yes,Yes,No,No,No,No
+954,6e15aad97e0653965b5a83e8bad8f1ed5401c71beccef269fca777f34c2bb033,Yes,No,Yes,DSL,Yes,Yes,No,No,No,Yes,Yes,No
+955,8ba828f7f8fdc26d215b3f35b4a990f21f70b80e50305560456eaf792b9e3f9e,Yes,No,Yes,DSL,Yes,Yes,Yes,No,No,No,Yes,Yes
+956,7c49b30c44fe4d17440bfd0589836057c07574f057e22afeee372f1219c0c288,Yes,No,Yes,Fiber Optic,No,Yes,Yes,No,Yes,Yes,Yes,No
+957,eb2f55c28b4ee9e0568a2db467fb4f4efc3543e55834117e806c8344390870c7,No,,Yes,Cable,Yes,Yes,No,Yes,No,No,No,No
+958,462fac71d7a99ed0d8815c788680bfe37cb4765e700e822977ecf6890dc537df,Yes,Yes,Yes,DSL,Yes,Yes,No,Yes,No,No,No,No
+959,f96a6917f8ff71425f8f69eed07a175a9f15d89c2504d77a7fd382c5fb4d24f1,Yes,Yes,Yes,DSL,No,Yes,Yes,Yes,Yes,Yes,No,Yes
+960,b136c1d6b5a4fdec148634ac191f9f00cfdd23217c2490eba32e7b444cbce9be,Yes,No,Yes,DSL,Yes,Yes,Yes,Yes,No,No,No,No
+961,b44e5669ee453eeedd391be3d8aa9010f3a128a7b37e8a2e1d07e68017dca634,No,,Yes,Cable,Yes,Yes,Yes,No,Yes,No,No,Yes
+962,a55cda667d1a770d29c19c4511ed25a284c8567a03480a1721f9bbca72f3d163,No,,Yes,DSL,Yes,No,No,Yes,Yes,No,No,No
+963,ac86d6e20021568c05fa1365cc8efcb84ad0053fe82bc82e323a48ab3ba2a3a7,No,,Yes,DSL,No,No,No,No,No,No,Yes,No
+964,45ba83d83d220b20813b9d2dc9950c62096ad37130c87cd3cd63f6d5f81b405a,No,,Yes,Cable,No,Yes,Yes,No,Yes,Yes,No,Yes
+965,2aa29c4c8a59978d094897e8491f11495ee8a4c9f309e698d9c580836c401f0f,Yes,Yes,Yes,DSL,Yes,Yes,Yes,No,Yes,Yes,No,Yes
+966,c215dd3c4fe0da34c3311d2a8c131b9f040f326de3d6dca6069d52df1b607dc6,Yes,No,Yes,DSL,Yes,No,No,Yes,No,No,Yes,Yes

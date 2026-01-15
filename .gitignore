@@ -1,0 +1,16 @@
+# Configurations airflow
+ORCHESTRATION/AIRFLOW/logs
+ORCHESTRATION/AIRFLOW/plugins
+airflow.cfg
+
+# Cache Python
+__pycache__/
+**/__pycache__/
+*.pyc
+
+# Environnements / outils
+.ipynb_checkpoints/
+.env
+
+# IDE
+.vscode/

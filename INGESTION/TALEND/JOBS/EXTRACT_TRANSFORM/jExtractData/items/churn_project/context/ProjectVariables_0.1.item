@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_q2vY0N9oEfCTqP-fnevbAQ" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_q2vY0d9oEfCTqP-fnevbAQ" comment="" name="projectFolder" prompt="projectFolder?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="."/>
+  <contextParameter xmi:id="_q2vY0t9oEfCTqP-fnevbAQ" comment="" name="encodage" prompt="encodage?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;UTF8&quot;"/>
+  <contextParameter xmi:id="_q2vY099oEfCTqP-fnevbAQ" comment="" name="fileSeparator" prompt="fileSeparator?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;,&quot;"/>
+  <contextParameter xmi:id="_q2vY1N9oEfCTqP-fnevbAQ" comment="" name="dataFolder" prompt="dataFolder?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="DATA/"/>
+</talendfile:ContextType>

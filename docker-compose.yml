@@ -1,0 +1,125 @@
+services:
+
+  postgres:
+    image: postgres:13
+    container_name: postgres_dwh
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: admin
+      POSTGRES_DB: CHURN_DWH_DB
+    volumes:
+      - postgres-db:/var/lib/postgresql/data
+    ports:
+      - "5435:5432"
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  airflow-postgres:
+    image: postgres:13
+    container_name: airflow_postgres
+    environment:
+      POSTGRES_USER: airflow
+      POSTGRES_PASSWORD: airflow
+      POSTGRES_DB: airflow
+    volumes:
+      - airflow-db:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U airflow"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  airflow-init:
+    build: .
+    depends_on:
+      airflow-postgres:
+        condition: service_healthy
+    environment:
+      AIRFLOW__CORE__EXECUTOR: LocalExecutor
+      AIRFLOW__DATABASE__SQL_ALCHEMY_CONN: postgresql+psycopg2://airflow:airflow@airflow-postgres/airflow
+      AIRFLOW__CORE__LOAD_EXAMPLES: "false"
+    volumes:
+      - ./ORCHESTRATION/AIRFLOW:/opt/airflow
+    entrypoint: /bin/bash
+    command:
+      - -c
+      - |
+        set -e
+        airflow db migrate
+        airflow users create \
+          -u admin \
+          -p admin \
+          -f Admin \
+          -l User \
+          -r Admin \
+          -e admin@example.com || true
+
+  airflow-webserver:
+    build: .
+    container_name: airflow_webserver
+    depends_on:
+      airflow-init:
+        condition: service_completed_successfully
+      postgres:
+        condition: service_healthy
+    environment:
+      AIRFLOW__CORE__EXECUTOR: LocalExecutor
+      AIRFLOW__DATABASE__SQL_ALCHEMY_CONN: postgresql+psycopg2://airflow:airflow@airflow-postgres/airflow
+      AIRFLOW__CORE__LOAD_EXAMPLES: "false"
+      AIRFLOW_CONN_POSTGRES_CHURN: postgresql://postgres:admin@postgres:5432/CHURN_DWH_DB
+      AIRFLOW_VAR_TALEND_BASE_PATH: /opt/airflow/talend_jobs
+    volumes:
+      - ./ORCHESTRATION/AIRFLOW/dags:/opt/airflow/dags
+      - ./ORCHESTRATION/AIRFLOW/logs:/opt/airflow/logs
+      - ./ORCHESTRATION/AIRFLOW/plugins:/opt/airflow/plugins
+      - ./INGESTION/TALEND/JOBS:/opt/airflow/talend_jobs
+      - ./INGESTION/ALL DATA/DATA:/opt/airflow/data
+      - ./INGESTION/ALL DATA/INPUT:/opt/airflow/input
+    ports:
+      - "8080:8080"
+    command: webserver
+
+  airflow-scheduler:
+    build: .
+    container_name: airflow_scheduler
+    depends_on:
+      airflow-webserver:
+        condition: service_started
+    environment:
+      AIRFLOW__CORE__EXECUTOR: LocalExecutor
+      AIRFLOW__DATABASE__SQL_ALCHEMY_CONN: postgresql+psycopg2://airflow:airflow@airflow-postgres/airflow
+      AIRFLOW_CONN_POSTGRES_CHURN: postgresql://postgres:admin@postgres:5432/CHURN_DWH_DB
+      AIRFLOW_VAR_TALEND_BASE_PATH: /opt/airflow/talend_jobs
+    volumes:
+      - ./ORCHESTRATION/AIRFLOW/dags:/opt/airflow/dags
+      - ./ORCHESTRATION/AIRFLOW/logs:/opt/airflow/logs
+      - ./ORCHESTRATION/AIRFLOW/plugins:/opt/airflow/plugins
+      - ./INGESTION/TALEND/JOBS:/opt/airflow/talend_jobs
+      - ./INGESTION/ALL DATA/DATA:/opt/airflow/data
+      - ./INGESTION/ALL DATA/INPUT:/opt/airflow/input
+    command: scheduler
+
+  airflow-trigger:
+    build: .
+    depends_on:
+      airflow-webserver:
+        condition: service_started
+    environment:
+      AIRFLOW__CORE__EXECUTOR: LocalExecutor
+      AIRFLOW__DATABASE__SQL_ALCHEMY_CONN: postgresql+psycopg2://airflow:airflow@airflow-postgres/airflow
+    volumes:
+      - ./ORCHESTRATION/AIRFLOW/dags:/opt/airflow/dags
+    entrypoint: /bin/bash
+    command:
+      - -c
+      - |
+        sleep 15
+        airflow dags unpause pipeline_dag
+        airflow dags trigger pipeline_dag
+
+volumes:
+  postgres-db:
+  airflow-db:

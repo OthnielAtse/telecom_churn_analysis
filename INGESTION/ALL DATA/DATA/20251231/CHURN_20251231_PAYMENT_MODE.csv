@@ -1,0 +1,4 @@
+PaymentModeID,PaymentMethod
+1,Credit Card
+2,Bank Withdrawal
+3,Mailed Check
